@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数据可视化</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <!-- 头部 -->
+    <header>
+        <h1>XX大学XX学院近五年本科毕业生去向数据可视化</h1>
+        <div class="showTime"></div>
+        <!-- 获取当前时间 -->
+        <script>
+            var t = null;
+            t = setTimeout(time, 1000);//開始运行
+            function time() {
+                clearTimeout(t);//清除定时器
+                dt = new Date();
+                var y = dt.getFullYear();
+                var mt = dt.getMonth() + 1;
+                var day = dt.getDate();
+                var h = dt.getHours();//获取时
+                var m = dt.getMinutes();//获取分
+                var s = dt.getSeconds();//获取秒
+                document.querySelector(".showTime").innerHTML = '当前时间：' + y + "年" + mt + "月" + day + "日-" + h + "时" + m + "分" + s + "秒";
+                t = setTimeout(time, 1000); //设定定时器，循环运行     
+            }
+        </script>
+    </header>
+    <!-- 页面主题部分 -->
+    <section class="mainbox">
+        <!-- 左边盒子 -->
+        <div class="leftbox">
+            <!-- 折线图-就业率/深造率变化 -->
+            <div class="left_upper_part">
+                <h2>
+                    深造率/就业率变化
+                </h2>
+                <div class="chart"></div>
+            </div>
+            <div class="hot_words_part"></div>
+            <div class="left_lower_part">
+                <div class="chart" ></div>
+                <div class="map1"></div>
+                <div class="map2"></div>
+                <div class="map3"></div>
+            </div>
+        </div>
+        <!-- 右边盒子 -->
+        <div class="rightbox">
+            <div class="right_upper_part">
+                <div class="column">
+                    <!-- 饼图 -->
+                    <div class="panel pie">
+                        <h2>单位性质/国内外</h2>
+                        <div class="chart"></div>
+                        <div class="panel-footer"></div>
+                    </div>
+                    <!-- 热力图 -->
+                    <div class="panel map">
+                        <h2>各省人数</h2>
+                        <div class="chart"></div>
+                        <div class="panel-footer"></div>
+                    </div>                   
+                </div>
+                <div class="column">
+                    <!-- 词云图 -->
+                    <div class="panel wordcloud">
+                        <h2>公司名称/学校</h2>
+                        <div class="chart"></div>
+                        <div class="panel-footer"></div>
+                    </div>   
+                    <!-- 性别比例图 -->
+                    <div class="panel sex_part">
+                        <h2>性别比例</h2>
+                        <div class="chart"></div>
+                        <div class="panel-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="right_lower_part">
+                <ul class = "rlplist">
+                    <li class="current">
+                        <a href="javascript:;">各省GDP</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">各行业平均工资</a>
+                    </li>
+                </ul>
+                <div class="chart"></div>
+                <div class="panel-footer"></div>
+            </div>
+        </div>
+    </section>
+    <!-- 尾部 -->
+    <footer>
+        <ul class="footlist">
+            <li>
+                <a href="javascript:;">全部</a>
+            </li>
+            <li>
+                <a href="javascript:;">2017</a>
+            </li>
+            <li>
+                <a href="javascript:;">2018</a>
+            </li>
+            <li>
+                <a href="javascript:;">2019</a>
+            </li>
+            <li>
+                <a href="javascript:;">2020</a>
+            </li>
+            <li class="current">
+                <a href="javascript:;">2021</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="assets_js/flexible.js"></script>
+    <script src="assets_js/echarts.min.js"></script>
+    <!-- 先引入jquery.js，才能使用点击切换效果 -->
+    <script src="assets_js/jquery.js"></script>
+    <!-- 必须先引入china.js，因为热力图需要 -->
+    <script src="assets_js/china.js"></script>
+    <!-- 必须先引入echarts-wordcloud.min.js，因为词云图需要 -->
+    <script src="assets_js/echarts-wordcloud.min.js"></script>
+    <script src="js/index.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,463 @@
+// css初始化
+*{
+    margin:0;
+    padding:0;
+    // 当定义width和height时，border和padding的参数值被包含在width和height之内。
+    box-sizing:border-box;
+}
+li{
+    list-style: none;
+}
+a{
+  text-decoration: none;
+}
+/* 声明字体*/
+@font-face {
+    font-family: electronicFont;
+    src: url(../font/DS-DIGIT.TTF);
+}
+html{
+  height:100%;
+}
+body{
+  padding: 0;
+  margin: 0;
+  background: url("../images/bg.jpg") no-repeat scroll 50% 0 transparent;
+}
+header{
+    // 子绝父相
+    position: relative;
+    height: 1rem;
+    min-width: 1024px;
+    max-width: 1920px;
+    margin: 0 auto;
+    background: url(../images/head_bg.png) no-repeat top center;
+    background-size: 100% 100%;
+    h1 {
+      font-size: .45rem;
+      color: #fff;
+      text-align: center;
+      line-height: 1rem;
+    }
+    .showTime {
+        position: absolute;
+        top: 0;
+        right: 0.375rem;
+        line-height: 0.9375rem;
+        font-size: 0.25rem;
+        color: rgba(255, 255, 255, 0.7);
+    }
+}
+.mainbox {
+    min-width: 1024px;
+    max-width: 1920px;
+    height: 900px;
+    margin: 0 auto;
+    padding: 0.1rem 0.1rem 0;
+    position: relative;
+    // 弹性多列布局，左边盒子占2份，右边盒子占3份
+    display: flex;
+    .leftbox{
+      flex:2;
+      position: relative;
+      height: 100%;
+      position: relative;
+      .left_upper_part{
+        position: relative;
+        width:93%;
+        height: 32%;
+        margin: 0 auto;
+        border: 1px solid rgba(25, 186, 139, 0.17);
+        &::before {
+          position: absolute;
+          top: 0;
+          left: 0;
+          content: "";
+          width: 10px;
+          height: 10px;
+          border-top: 1px solid #02a6b5;
+          border-left: 1px solid #02a6b5;
+        }
+        &::after {
+          position: absolute;
+          top: 0;
+          right: 0;
+          content: "";
+          width: 10px;
+          height: 10px;
+          border-top: 1px solid #02a6b5;
+          border-right: 1px solid #02a6b5;
+        }
+        h2 {
+          height: 0.35rem;
+          line-height: 0.35rem;
+          text-align: center;
+          color: #fff;
+          font-size: .25rem;
+          font-weight: 400;
+        }
+        .chart{
+          top: 0;
+          left: 0;
+          z-index: 5;
+          height: 3.12rem;
+          margin: 0 auto;
+          width: 99%;
+        }
+        .upper_footer {
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          height: 10px;
+          width: 100%;
+          &::before {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            content: "";
+            width: 10px;
+            height: 10px;
+            border-bottom: 1px solid #02a6b5;
+            border-left: 1px solid #02a6b5;
+          }
+          &::after {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            content: "";
+            width: 10px;
+            height: 10px;
+            border-bottom: 1px solid #02a6b5;
+            border-right: 1px solid #02a6b5;
+          }
+        }
+      }
+      .hot_words_part{
+        width:45%;
+        height:20%;
+        background-color: rgba(81, 79, 79, 0.73);
+        position: absolute;
+        top:0%;
+        left:30%;
+        z-index:9999;
+        display: none;
+      }
+      .left_lower_part{
+        height: 68%;
+        width: 100%;
+        position: relative;
+        .chart {
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 5;
+          height: 100%;
+          width: 100%;
+      }
+        .map1{
+          position: absolute;
+          // 设置居中垂直对齐
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          width: 6.475rem;
+          height: 6.475rem;
+          background: url(../images/map.png) no-repeat;
+          // 让背景图片跟着一起缩放
+          background-size: 100% 100%;
+          opacity: 0.3;
+      }
+      //   .map2 {
+      //     position: absolute;
+      //     width: 8.0375rem;
+      //     height: 8.0375rem;
+      //     background-image: url(../images/lbx.png);
+      //     opacity: 0.6;
+      //     top: 50%;
+      //     left: 50%;
+      //     // 没有这句图片旋转后会出Bug
+      //     background-size: 100% 100%;
+      //     transform: translate(-50%, -50%);
+      //     // 15s的匀速无限动画
+      //     animation: rotate 15s linear infinite;
+      //     // 要压住球体
+      //     z-index: 2;
+      // }
+        .map3 {
+          position: absolute;
+          width: 7.075rem;
+          height: 7.075rem;
+          top: 50%;
+          left: 50%;
+          opacity: 0.5;
+          // 没有这句图片旋转后会出Bug
+          background-size: 100% 100%;
+          transform: translate(-50%, -50%);
+          background-image: url(../images/jt.png);
+          animation: rotate1 10s linear infinite;
+      }
+      }
+    }
+    .rightbox{
+      flex:3;
+      position: relative;
+      height: 100%;
+      .right_upper_part{
+        display:flex;
+        height:67%;
+        .column{
+          flex:1
+        }
+        // 用伪类来设置公共面板模块的四个角
+        .panel {
+          position: relative;
+          height:47.8%;
+          border: 1px solid rgba(25, 186, 139, 0.17);
+          background: url(../images/line.png);
+          padding: 0 0.05rem 0.05rem;
+          margin-bottom: .2rem;
+          margin-right: .15rem;
+          h2 {
+              height: 0.25rem;
+              line-height: 0.25rem;
+              text-align: center;
+              color: #fff;
+              font-size: .20rem;
+              font-weight: 400;
+          }
+          .chart {
+              height: 3.25rem;
+          }
+        }
+        .pie{
+          &::before {
+            position: absolute;
+            top: 0;
+            left: 0;
+            content: "";
+            width: 10px;
+            height: 10px;
+            border-top: 2px solid #02a6b5;
+            border-left: 2px solid #02a6b5;
+          }
+        }
+        .map{
+          .panel-footer {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            &::before {
+              position: absolute;
+              bottom: 0;
+              left: 0;
+              content: "";
+              width: 10px;
+              height: 10px;
+              border-bottom: 2px solid #02a6b5;
+              border-left: 2px solid #02a6b5;
+            }
+          }
+        }
+        .wordcloud{
+          &::after {
+            position: absolute;
+            top: 0;
+            right: 0;
+            content: "";
+            width: 10px;
+            height: 10px;
+            border-top: 2px solid #02a6b5;
+            border-right: 2px solid #02a6b5;
+          }
+        }
+        .sex_part{
+          .panel-footer {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            &::after {
+              position: absolute;
+              bottom: 0;
+              right: 0;
+              content: "";
+              width: 10px;
+              height: 10px;
+              border-bottom: 2px solid #02a6b5;
+              border-right: 2px solid #02a6b5;
+            }
+          }
+        }
+      }
+      .right_lower_part{
+        position: relative;
+        height:33%;
+        padding: 0 0.05rem 0.05rem;
+        margin-bottom: .2rem;
+        ul {
+          height: 0.25rem;
+          position: relative;
+          display:flex;
+          li{
+            position: relative;
+            flex:1;
+            margin:0 auto;
+            height: 0.25rem;
+            text-align: center;
+            cursor: pointer;
+            a{
+              position: absolute;
+              top:auto;
+              line-height: 0.25rem;
+              color: #fff;
+              font-size: .20rem;
+              font-weight: 400;
+            }
+            a:hover{
+              color:#02a6b5;
+            }
+            &:first-child a{
+              right: 0.5rem;
+            }
+            &:last-child a{
+              left: 0.5rem;
+            }
+          }
+          li.current a{
+            color:#02a6b5;
+          }
+        }
+        &::before {
+          position: absolute;
+          top: 0;
+          left: 0;
+          content: "";
+          width: 10px;
+          height: 10px;
+          border-top: 2px solid #02a6b5;
+          border-left: 2px solid #02a6b5;
+        }
+        &::after {
+          position: absolute;
+          top: 0;
+          right: 0;
+          content: "";
+          width: 10px;
+          height: 10px;
+          border-top: 2px solid #02a6b5;
+          border-right: 2px solid #02a6b5;
+        }
+        .panel-footer {
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          &::before {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            content: "";
+            width: 10px;
+            height: 10px;
+            border-bottom: 2px solid #02a6b5;
+            border-left: 2px solid #02a6b5;
+          }
+        }
+        .panel-footer {
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          &::after {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            content: "";
+            width: 10px;
+            height: 10px;
+            border-bottom: 2px solid #02a6b5;
+            border-right: 2px solid #02a6b5;
+          }
+        }
+        .chart{
+            height: 3.4rem;
+        }
+      }
+    }
+}
+footer{
+      // 子绝父相
+      position: relative;
+      height: 1.25rem;
+      min-width: 1024px;
+      max-width: 1920px;
+      margin: 0 auto;
+      background-color: rgb(0, 28, 48);
+      // background-size: 100% 100%;
+      .footlist{
+        height: 1.25rem;
+        width: 100%;
+        margin:0 auto;
+        display: flex;
+        li {
+          position: relative;
+          flex: 1;
+          text-align: center;
+          cursor: pointer;
+          a{
+            // height: 1.25rem;
+            line-height: 1.25rem;
+            font-size: .8125rem;
+            color: #ffeb7b;
+            padding: 0.05rem 0;
+            font-family: electronicFont;
+            font-weight: bold;
+          }
+          &:first-child::after {
+            content: "";
+            position: absolute;
+            height: 50%;
+            width: 1px;
+            background: rgba(255, 255, 255, 0.2);
+            right: 0;
+            top: 25%;
+          }
+        }
+        li.current{
+          background-color:rgba(255, 255, 255, 0.2);
+        }
+        li:hover{
+          background-color: rgb(117, 115, 115);
+        }
+      }
+}
+// 旋转动画
+@keyframes rotate {
+  from {
+  // translate(-50%, -50%)保留位置，防止绕大圈
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+}
+}
+@keyframes rotate1 {
+    from {
+      transform: translate(-50%, -50%) rotate(0deg);
+    }
+    to {
+      transform: translate(-50%, -50%) rotate(-360deg);
+    }
+}
+/* 约束屏幕尺寸 */
+@media screen and (max-width: 1024px) {
+  html {
+    font-size: 42px !important;
+  }
+}
+@media screen and (min-width: 1920px) {
+  html {
+    font-size: 80px !important;
+  }
+}

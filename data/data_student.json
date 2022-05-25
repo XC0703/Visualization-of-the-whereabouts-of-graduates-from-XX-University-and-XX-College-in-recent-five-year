@@ -1,0 +1,3020 @@
+[
+    {
+    "year":"2017",
+    "value":400,
+    "data_sexchart":[
+      {
+        "name":"男",
+        "value":250
+      },
+      {
+        "name":"女",
+        "value":150
+      }
+    ],
+    "data_pie":[
+      {
+        "name":"国内深造",
+        "value":200
+      },
+      {
+        "name":"国外深造",
+        "value":50
+      },
+      { "value": 60, "name": "国有企业" },
+      { "value": 60, "name": "民营企业" },
+      { "value": 20, "name": "党政机关" },
+      { "value": 8, "name": "部队" },
+      { "value": 2, "name": "其它" }
+    ],
+    "data_map":[
+      {"name": "北京","value": 23},
+      {"name": "天津","value": 5},
+      {"name": "上海","value": 25},
+      {"name": "重庆","value": 50},
+      {"name": "河北","value": 3},
+      {"name": "河南","value": 2},
+      {"name": "云南","value": 5},
+      {"name": "辽宁","value": 5},
+      {"name": "黑龙江","value": 4},
+      {"name": "湖南","value": 7},
+      {"name": "安徽","value": 1},
+      {"name": "山东","value": 15},
+      {"name": "新疆","value": 20},
+      {"name": "江苏","value": 20},
+      {"name": "浙江","value": 25},
+      {"name": "江西","value": 17},
+      {"name": "湖北","value": 10},
+      {"name": "广西","value": 90},
+      {"name": "甘肃","value": 3},
+      {"name": "山西","value": 3},
+      {"name": "内蒙古","value": 4},
+      {"name": "陕西","value": 20},
+      {"name": "吉林","value": 5},
+      {"name": "福建","value": 3},
+      {"name": "贵州","value": 10},
+      {"name": "广东","value": 31},
+      {"name": "青海","value": 8},
+      {"name": "西藏","value": 0},
+      {"name": "四川","value": 90},
+      {"name": "宁夏","value": 5},
+      {"name": "海南","value": 5},
+      {"name": "台湾","value": 1},
+      {"name": "香港","value": 3},
+      {"name": "澳门","value": 2}
+    ],
+    "data_wordCloud":[
+      { "name": "四川大学", "value": 20 },
+      { "name": "电子科技大学", "value": 60 },
+      { "name": "重庆大学", "value": 34 },
+      { "name": "清华大学", "value": 4 },
+      { "name": "北京大学", "value": 27 },
+      { "name": "浙江大学", "value": 6 },
+      { "name": "复旦大学", "value": 19},
+      { "name": "上海交通大学", "value": 8 },
+      { "name": "天津大学", "value": 9 },
+      { "name": "中山大学", "value": 17 },
+      { "name": "华南理工大学", "value": 3 },
+      { "name": "南方科技大学", "value": 8 },
+      { "name": "北京邮电大学", "value": 7 },
+      { "name": "中国人民大学", "value": 6 },
+      { "name": "兰州大学", "value": 11 },
+      { "name": "字节跳动", "value": 5 },
+      { "name": "腾讯", "value": 8 },
+      { "name": "华为", "value": 1 },
+      { "name": "小红书", "value": 13 },
+      { "name": "成都市政府", "value": 9 },
+      { "name": "B站", "value": 37 },
+      { "name": "小米", "value": 19 },
+      { "name": "社畜公司", "value": 13 },
+      { "name": "996公司","value": 6},
+      { "name": "阿里巴巴", "value": 8 },
+      { "name": "京东科技","value": 3}
+    ],
+    "data_sunburst":[
+      {
+        "name":"全部",
+        "value":400,
+        "itemStyle": {
+          "borderColor": "#00f2f1",
+          "borderWidth": 0
+        },
+        "children":[
+          {
+            "name":"就业",
+            "value":150,
+            "data_sexchart":[
+              {
+                "name":"男",
+                "value":100
+              },
+              {
+                "name":"女",
+                "value":50
+              }
+            ],
+            "data_pie":[
+              { "value": 60, "name": "国有企业" },
+              { "value": 60, "name": "民营企业" },
+              { "value": 20, "name": "党政机关" },
+              { "value": 8, "name": "部队" },
+              { "value": 2, "name": "其它" }
+            ],
+            "data_map":[
+              {"name": "北京","value": 150},
+              {"name": "天津","value": 0},
+              {"name": "上海","value": 0},
+              {"name": "重庆","value": 0},
+              {"name": "河北","value": 0},
+              {"name": "河南","value": 0},
+              {"name": "云南","value": 0},
+              {"name": "辽宁","value": 0},
+              {"name": "黑龙江","value": 0},
+              {"name": "湖南","value": 0},
+              {"name": "安徽","value": 0},
+              {"name": "山东","value": 0},
+              {"name": "新疆","value": 0},
+              {"name": "江苏","value": 0},
+              {"name": "浙江","value": 0},
+              {"name": "江西","value": 0},
+              {"name": "湖北","value": 0},
+              {"name": "广西","value": 0},
+              {"name": "甘肃","value": 0},
+              {"name": "山西","value": 0},
+              {"name": "内蒙古","value": 0},
+              {"name": "陕西","value": 0},
+              {"name": "吉林","value": 0},
+              {"name": "福建","value": 0},
+              {"name": "贵州","value": 0},
+              {"name": "广东","value": 0},
+              {"name": "青海","value": 0},
+              {"name": "西藏","value": 0},
+              {"name": "四川","value": 0},
+              {"name": "宁夏","value": 0},
+              {"name": "海南","value": 0},
+              {"name": "台湾","value": 0},
+              {"name": "香港","value": 0},
+              {"name": "澳门","value": 0}
+            ],
+            "data_wordCloud":[
+              { "name": "字节跳动", "value": 100 },
+              { "name": "腾讯", "value": 30 },
+              { "name": "华为", "value": 10 },
+              { "name": "小红书", "value": 10 },
+              { "name": "成都市政府", "value": 0 },
+              { "name": "B站", "value": 0 },
+              { "name": "小米", "value": 0 },
+              { "name": "社畜公司", "value": 0 },
+              { "name": "996公司","value": 0},
+              { "name": "阿里巴巴", "value": 0 },
+              { "name": "京东科技","value": 0}
+            ],
+            "children": [
+              {
+                "value": 100,
+                "name": "IT",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":70
+                  },
+                  {
+                    "name":"女",
+                    "value":30
+                  }
+                ],
+                "data_pie":[
+                  { "value": 40, "name": "国有企业" },
+                  { "value": 50, "name": "民营企业" },
+                  { "value": 10, "name": "其它" }
+                ],
+                "data_map":[
+                  {"name": "北京","value": 30},
+                  {"name": "上海","value": 30},
+                  {"name": "广东","value": 20},
+                  {"name": "四川","value": 20}
+                ],
+                "data_wordCloud":[
+                  { "name": "字节跳动", "value": 30 },
+                  { "name": "腾讯", "value": 30 },
+                  { "name": "华为", "value": 20 },
+                  { "name": "小红书", "value": 10 },
+                  { "name": "996公司","value": 10}
+                ]
+              },
+              {
+                "value": 25,
+                "name": "金融业",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":15
+                  },
+                  {
+                    "name":"女",
+                    "value":10
+                  }
+                ],
+                "data_pie":[
+                  { "value": 10, "name": "国有企业" },
+                  { "value": 10, "name": "民营企业" },
+                  { "value": 5, "name": "其它" }
+                ],
+                "data_map":[
+                  {"name": "北京","value": 2},
+                  {"name": "上海","value": 8},
+                  {"name": "广东","value": 10},
+                  {"name": "四川","value": 5}
+                ],
+                "data_wordCloud":[
+                  { "name": "建设银行", "value": 20 },
+                  { "name": "工商银行", "value": 5 }
+                ]
+              },
+              {
+                "value": 9,
+                "name": "制造业",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":5
+                  },
+                  {
+                    "name":"女",
+                    "value":4
+                  }
+                ],
+                "data_pie":[
+                  { "value": 4, "name": "国有企业" },
+                  { "value": 4, "name": "民营企业" },
+                  { "value": 1, "name": "其它" }
+                ],
+                "data_map":[
+                  {"name": "北京","value": 2},
+                  {"name": "上海","value": 2},
+                  {"name": "广东","value": 2},
+                  {"name": "四川","value": 3}
+                ],
+                "data_wordCloud":[
+                  { "name": "黑心工厂1", "value": 5 },
+                  { "name": "黑心工厂2", "value": 4 }
+                ]
+              },
+              {
+                "value": 5,
+                "name": "机关",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":3
+                  },
+                  {
+                    "name":"女",
+                    "value":2
+                  }
+                ],
+                "data_pie":[
+                  { "value": 5, "name": "党政机关" }
+                ],
+                "data_map":[
+                  {"name": "北京","value": 0},
+                  {"name": "上海","value": 0},
+                  {"name": "广东","value": 2},
+                  {"name": "四川","value": 3}
+                ],
+                "data_wordCloud":[
+                  { "name": "北京市组织部", "value": 1 },
+                  { "name": "成都市组织部", "value": 4 }
+                ]
+              },
+              {
+                "value": 4,
+                "name": "电热燃水生产和供应业",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":3
+                  },
+                  {
+                    "name":"女",
+                    "value":1
+                  }
+                ],
+                "data_pie":[
+                  { "value": 4, "name": "国有企业" }
+                ],
+                "data_map":[
+                  {"name": "北京","value": 1},
+                  {"name": "上海","value": 1},
+                  {"name": "广东","value": 1},
+                  {"name": "四川","value": 1}
+                ],
+                "data_wordCloud":[
+                  { "name": "中石油", "value": 1 },
+                  { "name": "中石化", "value": 3 }
+                ]
+              },
+              {
+                "value": 4,
+                "name": "军队",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":4
+                  },
+                  {
+                    "name":"女",
+                    "value":0
+                  }
+                ],
+                "data_pie":[
+                  { "value": 4, "name": "其它" }
+                ],
+                "data_map":[
+                  {"name": "北京","value": 0},
+                  {"name": "上海","value": 0},
+                  {"name": "广东","value": 2},
+                  {"name": "四川","value": 2}
+                ],
+                "data_wordCloud":[
+                  { "name": "解放台湾", "value": 4 }
+                ]
+              },
+              {
+                "value": 16,
+                "name": "其它",
+                "children":[
+                  {"value":10,
+                    "name":"打工",
+                    "data_sexchart":[
+                      {
+                        "name":"男",
+                        "value":5
+                      },
+                      {
+                        "name":"女",
+                        "value":5
+                      }
+                    ],
+                    "data_pie":[
+                      { "value": 3, "name": "国有企业" },
+                      { "value": 3, "name": "私有企业" },
+                      { "value": 4, "name": "其它" }
+                    ],
+                    "data_map":[
+                      {"name": "北京","value": 3},
+                      {"name": "上海","value": 3},
+                      {"name": "广东","value": 3},
+                      {"name": "四川","value": 1}
+                    ],
+                    "data_wordCloud":[
+                      { "name": "社畜厂", "value": 5 },
+                      { "name": "解放美国力量", "value": 5 }
+                    ]
+                  },
+                  {"value":6,
+                    "name":"打工",
+                    "data_sexchart":[
+                      {
+                        "name":"男",
+                        "value":3
+                      },
+                      {
+                        "name":"女",
+                        "value":3
+                      }
+                    ],
+                    "data_pie":[
+                      { "value": 1, "name": "国有企业" },
+                      { "value": 1, "name": "私有企业" },
+                      { "value": 4, "name": "其它" }
+                    ],
+                    "data_map":[
+                      {"name": "北京","value": 3},
+                      {"name": "上海","value": 3}
+                    ],
+                    "data_wordCloud":[
+                      { "name": "社畜厂", "value": 6 }
+                    ]
+                  }
+                ],
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":10
+                  },
+                  {
+                    "name":"女",
+                    "value":6
+                  }
+                ],
+                "data_pie":[
+                  { "value": 6, "name": "国有企业" },
+                  { "value": 5, "name": "国有企业" },
+                  { "value": 5, "name": "其它" }
+                ],
+                "data_map":[
+                  {"name": "北京","value": 10},
+                  {"name": "上海","value": 2},
+                  {"name": "广东","value": 2},
+                  {"name": "四川","value": 1}
+                ],
+                "data_wordCloud":[
+                  { "name": "社畜厂", "value": 10 },
+                  { "name": "解放美国力量", "value": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "name":"深造",
+            "value":250,
+            "r":255,
+            "data_sexchart":[
+              {
+                "name":"男",
+                "value":120
+              },
+              {
+                "name":"女",
+                "value":130
+              }
+            ],
+            "data_pie":[
+              { "value": 200, "name": "国内" },
+              { "value": 50, "name": "国外" }
+            ],
+            "data_map":[
+              {"name": "北京","value": 250},
+              {"name": "天津","value": 0},
+              {"name": "上海","value": 0},
+              {"name": "重庆","value": 0},
+              {"name": "河北","value": 0},
+              {"name": "河南","value": 0},
+              {"name": "云南","value": 0},
+              {"name": "辽宁","value": 0},
+              {"name": "黑龙江","value": 0},
+              {"name": "湖南","value": 0},
+              {"name": "安徽","value": 0},
+              {"name": "山东","value": 0},
+              {"name": "新疆","value": 0},
+              {"name": "江苏","value": 0},
+              {"name": "浙江","value": 0},
+              {"name": "江西","value": 0},
+              {"name": "湖北","value": 0},
+              {"name": "广西","value": 0},
+              {"name": "甘肃","value": 0},
+              {"name": "山西","value": 0},
+              {"name": "内蒙古","value": 0},
+              {"name": "陕西","value": 0},
+              {"name": "吉林","value": 0},
+              {"name": "福建","value": 0},
+              {"name": "贵州","value": 0},
+              {"name": "广东","value": 0},
+              {"name": "青海","value": 0},
+              {"name": "西藏","value": 0},
+              {"name": "四川","value": 0},
+              {"name": "宁夏","value": 0},
+              {"name": "海南","value": 0},
+              {"name": "台湾","value": 0},
+              {"name": "香港","value": 0},
+              {"name": "澳门","value": 0}
+            ],
+            "data_wordCloud":[
+              { "name": "四川大学", "value": 20 },
+              { "name": "电子科技大学", "value": 60 },
+              { "name": "重庆大学", "value": 34 },
+              { "name": "清华大学", "value": 4 },
+              { "name": "北京大学", "value": 27 },
+              { "name": "浙江大学", "value": 6 },
+              { "name": "复旦大学", "value": 19},
+              { "name": "上海交通大学", "value": 8 },
+              { "name": "天津大学", "value": 9 },
+              { "name": "中山大学", "value": 17 },
+              { "name": "华南理工大学", "value": 3 },
+              { "name": "南方科技大学", "value": 8 },
+              { "name": "北京邮电大学", "value": 7 },
+              { "name": "中国人民大学", "value": 6 },
+              { "name": "兰州大学", "value": 11 }
+            ]
+          }
+        ]
+      }
+    ]
+    },
+    {
+      "year":"2018",
+      "value":400,
+      "data_sexchart":[
+        {
+          "name":"男",
+          "value":250
+        },
+        {
+          "name":"女",
+          "value":150
+        }
+      ],
+      "data_pie":[
+        {
+          "name":"国内深造",
+          "value":200
+        },
+        {
+          "name":"国外深造",
+          "value":50
+        },
+        { "value": 60, "name": "国有企业" },
+        { "value": 60, "name": "民营企业" },
+        { "value": 20, "name": "党政机关" },
+        { "value": 8, "name": "部队" },
+        { "value": 2, "name": "其它" }
+      ],
+      "data_map":[
+        {"name": "北京","value": 23},
+        {"name": "天津","value": 5},
+        {"name": "上海","value": 25},
+        {"name": "重庆","value": 50},
+        {"name": "河北","value": 3},
+        {"name": "河南","value": 2},
+        {"name": "云南","value": 5},
+        {"name": "辽宁","value": 5},
+        {"name": "黑龙江","value": 4},
+        {"name": "湖南","value": 7},
+        {"name": "安徽","value": 1},
+        {"name": "山东","value": 15},
+        {"name": "新疆","value": 20},
+        {"name": "江苏","value": 20},
+        {"name": "浙江","value": 25},
+        {"name": "江西","value": 17},
+        {"name": "湖北","value": 10},
+        {"name": "广西","value": 90},
+        {"name": "甘肃","value": 3},
+        {"name": "山西","value": 3},
+        {"name": "内蒙古","value": 4},
+        {"name": "陕西","value": 20},
+        {"name": "吉林","value": 5},
+        {"name": "福建","value": 3},
+        {"name": "贵州","value": 10},
+        {"name": "广东","value": 31},
+        {"name": "青海","value": 8},
+        {"name": "西藏","value": 0},
+        {"name": "四川","value": 90},
+        {"name": "宁夏","value": 5},
+        {"name": "海南","value": 5},
+        {"name": "台湾","value": 1},
+        {"name": "香港","value": 3},
+        {"name": "澳门","value": 2}
+      ],
+      "data_wordCloud":[
+        { "name": "四川大学", "value": 20 },
+        { "name": "电子科技大学", "value": 60 },
+        { "name": "重庆大学", "value": 34 },
+        { "name": "清华大学", "value": 4 },
+        { "name": "北京大学", "value": 27 },
+        { "name": "浙江大学", "value": 6 },
+        { "name": "复旦大学", "value": 19},
+        { "name": "上海交通大学", "value": 8 },
+        { "name": "天津大学", "value": 9 },
+        { "name": "中山大学", "value": 17 },
+        { "name": "华南理工大学", "value": 3 },
+        { "name": "南方科技大学", "value": 8 },
+        { "name": "北京邮电大学", "value": 7 },
+        { "name": "中国人民大学", "value": 6 },
+        { "name": "兰州大学", "value": 11 },
+        { "name": "字节跳动", "value": 5 },
+        { "name": "腾讯", "value": 8 },
+        { "name": "华为", "value": 1 },
+        { "name": "小红书", "value": 13 },
+        { "name": "成都市政府", "value": 9 },
+        { "name": "B站", "value": 37 },
+        { "name": "小米", "value": 19 },
+        { "name": "社畜公司", "value": 13 },
+        { "name": "996公司","value": 6},
+        { "name": "阿里巴巴", "value": 8 },
+        { "name": "京东科技","value": 3}
+      ],
+      "data_sunburst":[
+        {
+          "name":"全部",
+          "value":400,
+          "itemStyle": {
+            "borderColor": "#00f2f1",
+            "borderWidth": 0
+          },
+          "children":[
+            {
+              "name":"就业",
+              "value":150,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":100
+                },
+                {
+                  "name":"女",
+                  "value":50
+                }
+              ],
+              "data_pie":[
+                { "value": 60, "name": "国有企业" },
+                { "value": 60, "name": "民营企业" },
+                { "value": 20, "name": "党政机关" },
+                { "value": 8, "name": "部队" },
+                { "value": 2, "name": "其它" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 150},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "字节跳动", "value": 100 },
+                { "name": "腾讯", "value": 30 },
+                { "name": "华为", "value": 10 },
+                { "name": "小红书", "value": 10 },
+                { "name": "成都市政府", "value": 0 },
+                { "name": "B站", "value": 0 },
+                { "name": "小米", "value": 0 },
+                { "name": "社畜公司", "value": 0 },
+                { "name": "996公司","value": 0},
+                { "name": "阿里巴巴", "value": 0 },
+                { "name": "京东科技","value": 0}
+              ],
+              "children": [
+                {
+                  "value": 100,
+                  "name": "IT",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":70
+                    },
+                    {
+                      "name":"女",
+                      "value":30
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 40, "name": "国有企业" },
+                    { "value": 50, "name": "民营企业" },
+                    { "value": 10, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 30},
+                    {"name": "上海","value": 30},
+                    {"name": "广东","value": 20},
+                    {"name": "四川","value": 20}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "字节跳动", "value": 30 },
+                    { "name": "腾讯", "value": 30 },
+                    { "name": "华为", "value": 20 },
+                    { "name": "小红书", "value": 10 },
+                    { "name": "996公司","value": 10}
+                  ]
+                },
+                {
+                  "value": 25,
+                  "name": "金融业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":15
+                    },
+                    {
+                      "name":"女",
+                      "value":10
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 10, "name": "国有企业" },
+                    { "value": 10, "name": "民营企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 8},
+                    {"name": "广东","value": 10},
+                    {"name": "四川","value": 5}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "建设银行", "value": 20 },
+                    { "name": "工商银行", "value": 5 }
+                  ]
+                },
+                {
+                  "value": 9,
+                  "name": "制造业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":5
+                    },
+                    {
+                      "name":"女",
+                      "value":4
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" },
+                    { "value": 4, "name": "民营企业" },
+                    { "value": 1, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "黑心工厂1", "value": 5 },
+                    { "name": "黑心工厂2", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 5,
+                  "name": "机关",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":2
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 5, "name": "党政机关" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "北京市组织部", "value": 1 },
+                    { "name": "成都市组织部", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "电热燃水生产和供应业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":1
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 1},
+                    {"name": "上海","value": 1},
+                    {"name": "广东","value": 1},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "中石油", "value": 1 },
+                    { "name": "中石化", "value": 3 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "军队",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":4
+                    },
+                    {
+                      "name":"女",
+                      "value":0
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 2}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "解放台湾", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 16,
+                  "name": "其它",
+                  "children":[
+                    {"value":10,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":5
+                        },
+                        {
+                          "name":"女",
+                          "value":5
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 3, "name": "国有企业" },
+                        { "value": 3, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3},
+                        {"name": "广东","value": 3},
+                        {"name": "四川","value": 1}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 5 },
+                        { "name": "解放美国力量", "value": 5 }
+                      ]
+                    },
+                    {"value":6,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":3
+                        },
+                        {
+                          "name":"女",
+                          "value":3
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 1, "name": "国有企业" },
+                        { "value": 1, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 6 }
+                      ]
+                    }
+                  ],
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":10
+                    },
+                    {
+                      "name":"女",
+                      "value":6
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 6, "name": "国有企业" },
+                    { "value": 5, "name": "国有企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 10},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "社畜厂", "value": 10 },
+                    { "name": "解放美国力量", "value": 10 }
+                  ]
+                }
+              ]
+            },
+            {
+              "name":"深造",
+              "value":250,
+              "r":255,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":120
+                },
+                {
+                  "name":"女",
+                  "value":130
+                }
+              ],
+              "data_pie":[
+                { "value": 200, "name": "国内" },
+                { "value": 50, "name": "国外" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 250},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "四川大学", "value": 20 },
+                { "name": "电子科技大学", "value": 60 },
+                { "name": "重庆大学", "value": 34 },
+                { "name": "清华大学", "value": 4 },
+                { "name": "北京大学", "value": 27 },
+                { "name": "浙江大学", "value": 6 },
+                { "name": "复旦大学", "value": 19},
+                { "name": "上海交通大学", "value": 8 },
+                { "name": "天津大学", "value": 9 },
+                { "name": "中山大学", "value": 17 },
+                { "name": "华南理工大学", "value": 3 },
+                { "name": "南方科技大学", "value": 8 },
+                { "name": "北京邮电大学", "value": 7 },
+                { "name": "中国人民大学", "value": 6 },
+                { "name": "兰州大学", "value": 11 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year":"2019",
+      "value":400,
+      "data_sexchart":[
+        {
+          "name":"男",
+          "value":250
+        },
+        {
+          "name":"女",
+          "value":150
+        }
+      ],
+      "data_pie":[
+        {
+          "name":"国内深造",
+          "value":200
+        },
+        {
+          "name":"国外深造",
+          "value":50
+        },
+        { "value": 60, "name": "国有企业" },
+        { "value": 60, "name": "民营企业" },
+        { "value": 20, "name": "党政机关" },
+        { "value": 8, "name": "部队" },
+        { "value": 2, "name": "其它" }
+      ],
+      "data_map":[
+        {"name": "北京","value": 23},
+        {"name": "天津","value": 5},
+        {"name": "上海","value": 25},
+        {"name": "重庆","value": 50},
+        {"name": "河北","value": 3},
+        {"name": "河南","value": 2},
+        {"name": "云南","value": 5},
+        {"name": "辽宁","value": 5},
+        {"name": "黑龙江","value": 4},
+        {"name": "湖南","value": 7},
+        {"name": "安徽","value": 1},
+        {"name": "山东","value": 15},
+        {"name": "新疆","value": 20},
+        {"name": "江苏","value": 20},
+        {"name": "浙江","value": 25},
+        {"name": "江西","value": 17},
+        {"name": "湖北","value": 10},
+        {"name": "广西","value": 90},
+        {"name": "甘肃","value": 3},
+        {"name": "山西","value": 3},
+        {"name": "内蒙古","value": 4},
+        {"name": "陕西","value": 20},
+        {"name": "吉林","value": 5},
+        {"name": "福建","value": 3},
+        {"name": "贵州","value": 10},
+        {"name": "广东","value": 31},
+        {"name": "青海","value": 8},
+        {"name": "西藏","value": 0},
+        {"name": "四川","value": 90},
+        {"name": "宁夏","value": 5},
+        {"name": "海南","value": 5},
+        {"name": "台湾","value": 1},
+        {"name": "香港","value": 3},
+        {"name": "澳门","value": 2}
+      ],
+      "data_wordCloud":[
+        { "name": "四川大学", "value": 20 },
+        { "name": "电子科技大学", "value": 60 },
+        { "name": "重庆大学", "value": 34 },
+        { "name": "清华大学", "value": 4 },
+        { "name": "北京大学", "value": 27 },
+        { "name": "浙江大学", "value": 6 },
+        { "name": "复旦大学", "value": 19},
+        { "name": "上海交通大学", "value": 8 },
+        { "name": "天津大学", "value": 9 },
+        { "name": "中山大学", "value": 17 },
+        { "name": "华南理工大学", "value": 3 },
+        { "name": "南方科技大学", "value": 8 },
+        { "name": "北京邮电大学", "value": 7 },
+        { "name": "中国人民大学", "value": 6 },
+        { "name": "兰州大学", "value": 11 },
+        { "name": "字节跳动", "value": 5 },
+        { "name": "腾讯", "value": 8 },
+        { "name": "华为", "value": 1 },
+        { "name": "小红书", "value": 13 },
+        { "name": "成都市政府", "value": 9 },
+        { "name": "B站", "value": 37 },
+        { "name": "小米", "value": 19 },
+        { "name": "社畜公司", "value": 13 },
+        { "name": "996公司","value": 6},
+        { "name": "阿里巴巴", "value": 8 },
+        { "name": "京东科技","value": 3}
+      ],
+      "data_sunburst":[
+        {
+          "name":"全部",
+          "value":400,
+          "itemStyle": {
+            "borderColor": "#00f2f1",
+            "borderWidth": 0
+          },
+          "children":[
+            {
+              "name":"就业",
+              "value":150,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":100
+                },
+                {
+                  "name":"女",
+                  "value":50
+                }
+              ],
+              "data_pie":[
+                { "value": 60, "name": "国有企业" },
+                { "value": 60, "name": "民营企业" },
+                { "value": 20, "name": "党政机关" },
+                { "value": 8, "name": "部队" },
+                { "value": 2, "name": "其它" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 150},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "字节跳动", "value": 100 },
+                { "name": "腾讯", "value": 30 },
+                { "name": "华为", "value": 10 },
+                { "name": "小红书", "value": 10 },
+                { "name": "成都市政府", "value": 0 },
+                { "name": "B站", "value": 0 },
+                { "name": "小米", "value": 0 },
+                { "name": "社畜公司", "value": 0 },
+                { "name": "996公司","value": 0},
+                { "name": "阿里巴巴", "value": 0 },
+                { "name": "京东科技","value": 0}
+              ],
+              "children": [
+                {
+                  "value": 100,
+                  "name": "IT",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":70
+                    },
+                    {
+                      "name":"女",
+                      "value":30
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 40, "name": "国有企业" },
+                    { "value": 50, "name": "民营企业" },
+                    { "value": 10, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 30},
+                    {"name": "上海","value": 30},
+                    {"name": "广东","value": 20},
+                    {"name": "四川","value": 20}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "字节跳动", "value": 30 },
+                    { "name": "腾讯", "value": 30 },
+                    { "name": "华为", "value": 20 },
+                    { "name": "小红书", "value": 10 },
+                    { "name": "996公司","value": 10}
+                  ]
+                },
+                {
+                  "value": 25,
+                  "name": "金融业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":15
+                    },
+                    {
+                      "name":"女",
+                      "value":10
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 10, "name": "国有企业" },
+                    { "value": 10, "name": "民营企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 8},
+                    {"name": "广东","value": 10},
+                    {"name": "四川","value": 5}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "建设银行", "value": 20 },
+                    { "name": "工商银行", "value": 5 }
+                  ]
+                },
+                {
+                  "value": 9,
+                  "name": "制造业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":5
+                    },
+                    {
+                      "name":"女",
+                      "value":4
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" },
+                    { "value": 4, "name": "民营企业" },
+                    { "value": 1, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "黑心工厂1", "value": 5 },
+                    { "name": "黑心工厂2", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 5,
+                  "name": "机关",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":2
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 5, "name": "党政机关" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "北京市组织部", "value": 1 },
+                    { "name": "成都市组织部", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "电热燃水生产和供应业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":1
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 1},
+                    {"name": "上海","value": 1},
+                    {"name": "广东","value": 1},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "中石油", "value": 1 },
+                    { "name": "中石化", "value": 3 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "军队",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":4
+                    },
+                    {
+                      "name":"女",
+                      "value":0
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 2}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "解放台湾", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 16,
+                  "name": "其它",
+                  "children":[
+                    {"value":10,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":5
+                        },
+                        {
+                          "name":"女",
+                          "value":5
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 3, "name": "国有企业" },
+                        { "value": 3, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3},
+                        {"name": "广东","value": 3},
+                        {"name": "四川","value": 1}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 5 },
+                        { "name": "解放美国力量", "value": 5 }
+                      ]
+                    },
+                    {"value":6,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":3
+                        },
+                        {
+                          "name":"女",
+                          "value":3
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 1, "name": "国有企业" },
+                        { "value": 1, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 6 }
+                      ]
+                    }
+                  ],
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":10
+                    },
+                    {
+                      "name":"女",
+                      "value":6
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 6, "name": "国有企业" },
+                    { "value": 5, "name": "国有企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 10},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "社畜厂", "value": 10 },
+                    { "name": "解放美国力量", "value": 10 }
+                  ]
+                }
+              ]
+            },
+            {
+              "name":"深造",
+              "value":250,
+              "r":255,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":120
+                },
+                {
+                  "name":"女",
+                  "value":130
+                }
+              ],
+              "data_pie":[
+                { "value": 200, "name": "国内" },
+                { "value": 50, "name": "国外" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 250},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "四川大学", "value": 20 },
+                { "name": "电子科技大学", "value": 60 },
+                { "name": "重庆大学", "value": 34 },
+                { "name": "清华大学", "value": 4 },
+                { "name": "北京大学", "value": 27 },
+                { "name": "浙江大学", "value": 6 },
+                { "name": "复旦大学", "value": 19},
+                { "name": "上海交通大学", "value": 8 },
+                { "name": "天津大学", "value": 9 },
+                { "name": "中山大学", "value": 17 },
+                { "name": "华南理工大学", "value": 3 },
+                { "name": "南方科技大学", "value": 8 },
+                { "name": "北京邮电大学", "value": 7 },
+                { "name": "中国人民大学", "value": 6 },
+                { "name": "兰州大学", "value": 11 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year":"2020",
+      "value":400,
+      "data_sexchart":[
+        {
+          "name":"男",
+          "value":250
+        },
+        {
+          "name":"女",
+          "value":150
+        }
+      ],
+      "data_pie":[
+        {
+          "name":"国内深造",
+          "value":200
+        },
+        {
+          "name":"国外深造",
+          "value":50
+        },
+        { "value": 60, "name": "国有企业" },
+        { "value": 60, "name": "民营企业" },
+        { "value": 20, "name": "党政机关" },
+        { "value": 8, "name": "部队" },
+        { "value": 2, "name": "其它" }
+      ],
+      "data_map":[
+        {"name": "北京","value": 23},
+        {"name": "天津","value": 5},
+        {"name": "上海","value": 25},
+        {"name": "重庆","value": 50},
+        {"name": "河北","value": 3},
+        {"name": "河南","value": 2},
+        {"name": "云南","value": 5},
+        {"name": "辽宁","value": 5},
+        {"name": "黑龙江","value": 4},
+        {"name": "湖南","value": 7},
+        {"name": "安徽","value": 1},
+        {"name": "山东","value": 15},
+        {"name": "新疆","value": 20},
+        {"name": "江苏","value": 20},
+        {"name": "浙江","value": 25},
+        {"name": "江西","value": 17},
+        {"name": "湖北","value": 10},
+        {"name": "广西","value": 90},
+        {"name": "甘肃","value": 3},
+        {"name": "山西","value": 3},
+        {"name": "内蒙古","value": 4},
+        {"name": "陕西","value": 20},
+        {"name": "吉林","value": 5},
+        {"name": "福建","value": 3},
+        {"name": "贵州","value": 10},
+        {"name": "广东","value": 31},
+        {"name": "青海","value": 8},
+        {"name": "西藏","value": 0},
+        {"name": "四川","value": 90},
+        {"name": "宁夏","value": 5},
+        {"name": "海南","value": 5},
+        {"name": "台湾","value": 1},
+        {"name": "香港","value": 3},
+        {"name": "澳门","value": 2}
+      ],
+      "data_wordCloud":[
+        { "name": "四川大学", "value": 20 },
+        { "name": "电子科技大学", "value": 60 },
+        { "name": "重庆大学", "value": 34 },
+        { "name": "清华大学", "value": 4 },
+        { "name": "北京大学", "value": 27 },
+        { "name": "浙江大学", "value": 6 },
+        { "name": "复旦大学", "value": 19},
+        { "name": "上海交通大学", "value": 8 },
+        { "name": "天津大学", "value": 9 },
+        { "name": "中山大学", "value": 17 },
+        { "name": "华南理工大学", "value": 3 },
+        { "name": "南方科技大学", "value": 8 },
+        { "name": "北京邮电大学", "value": 7 },
+        { "name": "中国人民大学", "value": 6 },
+        { "name": "兰州大学", "value": 11 },
+        { "name": "字节跳动", "value": 5 },
+        { "name": "腾讯", "value": 8 },
+        { "name": "华为", "value": 1 },
+        { "name": "小红书", "value": 13 },
+        { "name": "成都市政府", "value": 9 },
+        { "name": "B站", "value": 37 },
+        { "name": "小米", "value": 19 },
+        { "name": "社畜公司", "value": 13 },
+        { "name": "996公司","value": 6},
+        { "name": "阿里巴巴", "value": 8 },
+        { "name": "京东科技","value": 3}
+      ],
+      "data_sunburst":[
+        {
+          "name":"全部",
+          "value":400,
+          "itemStyle": {
+            "borderColor": "#00f2f1",
+            "borderWidth": 0
+          },
+          "children":[
+            {
+              "name":"就业",
+              "value":150,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":100
+                },
+                {
+                  "name":"女",
+                  "value":50
+                }
+              ],
+              "data_pie":[
+                { "value": 60, "name": "国有企业" },
+                { "value": 60, "name": "民营企业" },
+                { "value": 20, "name": "党政机关" },
+                { "value": 8, "name": "部队" },
+                { "value": 2, "name": "其它" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 150},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "字节跳动", "value": 100 },
+                { "name": "腾讯", "value": 30 },
+                { "name": "华为", "value": 10 },
+                { "name": "小红书", "value": 10 },
+                { "name": "成都市政府", "value": 0 },
+                { "name": "B站", "value": 0 },
+                { "name": "小米", "value": 0 },
+                { "name": "社畜公司", "value": 0 },
+                { "name": "996公司","value": 0},
+                { "name": "阿里巴巴", "value": 0 },
+                { "name": "京东科技","value": 0}
+              ],
+              "children": [
+                {
+                  "value": 100,
+                  "name": "IT",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":70
+                    },
+                    {
+                      "name":"女",
+                      "value":30
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 40, "name": "国有企业" },
+                    { "value": 50, "name": "民营企业" },
+                    { "value": 10, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 30},
+                    {"name": "上海","value": 30},
+                    {"name": "广东","value": 20},
+                    {"name": "四川","value": 20}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "字节跳动", "value": 30 },
+                    { "name": "腾讯", "value": 30 },
+                    { "name": "华为", "value": 20 },
+                    { "name": "小红书", "value": 10 },
+                    { "name": "996公司","value": 10}
+                  ]
+                },
+                {
+                  "value": 25,
+                  "name": "金融业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":15
+                    },
+                    {
+                      "name":"女",
+                      "value":10
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 10, "name": "国有企业" },
+                    { "value": 10, "name": "民营企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 8},
+                    {"name": "广东","value": 10},
+                    {"name": "四川","value": 5}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "建设银行", "value": 20 },
+                    { "name": "工商银行", "value": 5 }
+                  ]
+                },
+                {
+                  "value": 9,
+                  "name": "制造业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":5
+                    },
+                    {
+                      "name":"女",
+                      "value":4
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" },
+                    { "value": 4, "name": "民营企业" },
+                    { "value": 1, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "黑心工厂1", "value": 5 },
+                    { "name": "黑心工厂2", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 5,
+                  "name": "机关",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":2
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 5, "name": "党政机关" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "北京市组织部", "value": 1 },
+                    { "name": "成都市组织部", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "电热燃水生产和供应业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":1
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 1},
+                    {"name": "上海","value": 1},
+                    {"name": "广东","value": 1},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "中石油", "value": 1 },
+                    { "name": "中石化", "value": 3 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "军队",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":4
+                    },
+                    {
+                      "name":"女",
+                      "value":0
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 2}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "解放台湾", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 16,
+                  "name": "其它",
+                  "children":[
+                    {"value":10,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":5
+                        },
+                        {
+                          "name":"女",
+                          "value":5
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 3, "name": "国有企业" },
+                        { "value": 3, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3},
+                        {"name": "广东","value": 3},
+                        {"name": "四川","value": 1}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 5 },
+                        { "name": "解放美国力量", "value": 5 }
+                      ]
+                    },
+                    {"value":6,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":3
+                        },
+                        {
+                          "name":"女",
+                          "value":3
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 1, "name": "国有企业" },
+                        { "value": 1, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 6 }
+                      ]
+                    }
+                  ],
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":10
+                    },
+                    {
+                      "name":"女",
+                      "value":6
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 6, "name": "国有企业" },
+                    { "value": 5, "name": "国有企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 10},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "社畜厂", "value": 10 },
+                    { "name": "解放美国力量", "value": 10 }
+                  ]
+                }
+              ]
+            },
+            {
+              "name":"深造",
+              "value":250,
+              "r":255,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":120
+                },
+                {
+                  "name":"女",
+                  "value":130
+                }
+              ],
+              "data_pie":[
+                { "value": 200, "name": "国内" },
+                { "value": 50, "name": "国外" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 250},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "四川大学", "value": 20 },
+                { "name": "电子科技大学", "value": 60 },
+                { "name": "重庆大学", "value": 34 },
+                { "name": "清华大学", "value": 4 },
+                { "name": "北京大学", "value": 27 },
+                { "name": "浙江大学", "value": 6 },
+                { "name": "复旦大学", "value": 19},
+                { "name": "上海交通大学", "value": 8 },
+                { "name": "天津大学", "value": 9 },
+                { "name": "中山大学", "value": 17 },
+                { "name": "华南理工大学", "value": 3 },
+                { "name": "南方科技大学", "value": 8 },
+                { "name": "北京邮电大学", "value": 7 },
+                { "name": "中国人民大学", "value": 6 },
+                { "name": "兰州大学", "value": 11 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year":"2021",
+      "value":400,
+      "data_sexchart":[
+        {
+          "name":"男",
+          "value":250
+        },
+        {
+          "name":"女",
+          "value":150
+        }
+      ],
+      "data_pie":[
+        {
+          "name":"国内深造",
+          "value":200
+        },
+        {
+          "name":"国外深造",
+          "value":50
+        },
+        { "value": 60, "name": "国有企业" },
+        { "value": 60, "name": "民营企业" },
+        { "value": 20, "name": "党政机关" },
+        { "value": 8, "name": "部队" },
+        { "value": 2, "name": "其它" }
+      ],
+      "data_map":[
+        {"name": "北京","value": 23},
+        {"name": "天津","value": 5},
+        {"name": "上海","value": 25},
+        {"name": "重庆","value": 50},
+        {"name": "河北","value": 3},
+        {"name": "河南","value": 2},
+        {"name": "云南","value": 5},
+        {"name": "辽宁","value": 5},
+        {"name": "黑龙江","value": 4},
+        {"name": "湖南","value": 7},
+        {"name": "安徽","value": 1},
+        {"name": "山东","value": 15},
+        {"name": "新疆","value": 20},
+        {"name": "江苏","value": 20},
+        {"name": "浙江","value": 25},
+        {"name": "江西","value": 17},
+        {"name": "湖北","value": 10},
+        {"name": "广西","value": 90},
+        {"name": "甘肃","value": 3},
+        {"name": "山西","value": 3},
+        {"name": "内蒙古","value": 4},
+        {"name": "陕西","value": 20},
+        {"name": "吉林","value": 5},
+        {"name": "福建","value": 3},
+        {"name": "贵州","value": 10},
+        {"name": "广东","value": 31},
+        {"name": "青海","value": 8},
+        {"name": "西藏","value": 0},
+        {"name": "四川","value": 90},
+        {"name": "宁夏","value": 5},
+        {"name": "海南","value": 5},
+        {"name": "台湾","value": 1},
+        {"name": "香港","value": 3},
+        {"name": "澳门","value": 2}
+      ],
+      "data_wordCloud":[
+        { "name": "四川大学", "value": 20 },
+        { "name": "电子科技大学", "value": 60 },
+        { "name": "重庆大学", "value": 34 },
+        { "name": "清华大学", "value": 4 },
+        { "name": "北京大学", "value": 27 },
+        { "name": "浙江大学", "value": 6 },
+        { "name": "复旦大学", "value": 19},
+        { "name": "上海交通大学", "value": 8 },
+        { "name": "天津大学", "value": 9 },
+        { "name": "中山大学", "value": 17 },
+        { "name": "华南理工大学", "value": 3 },
+        { "name": "南方科技大学", "value": 8 },
+        { "name": "北京邮电大学", "value": 7 },
+        { "name": "中国人民大学", "value": 6 },
+        { "name": "兰州大学", "value": 11 },
+        { "name": "字节跳动", "value": 5 },
+        { "name": "腾讯", "value": 8 },
+        { "name": "华为", "value": 1 },
+        { "name": "小红书", "value": 13 },
+        { "name": "成都市政府", "value": 9 },
+        { "name": "B站", "value": 37 },
+        { "name": "小米", "value": 19 },
+        { "name": "社畜公司", "value": 13 },
+        { "name": "996公司","value": 6},
+        { "name": "阿里巴巴", "value": 8 },
+        { "name": "京东科技","value": 3}
+      ],
+      "data_sunburst":[
+        {
+          "name":"全部",
+          "value":400,
+          "itemStyle": {
+            "borderColor": "#00f2f1",
+            "borderWidth": 0
+          },
+          "children":[
+            {
+              "name":"就业",
+              "value":150,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":100
+                },
+                {
+                  "name":"女",
+                  "value":50
+                }
+              ],
+              "data_pie":[
+                { "value": 60, "name": "国有企业" },
+                { "value": 60, "name": "民营企业" },
+                { "value": 20, "name": "党政机关" },
+                { "value": 8, "name": "部队" },
+                { "value": 2, "name": "其它" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 150},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "字节跳动", "value": 100 },
+                { "name": "腾讯", "value": 30 },
+                { "name": "华为", "value": 10 },
+                { "name": "小红书", "value": 10 },
+                { "name": "成都市政府", "value": 0 },
+                { "name": "B站", "value": 0 },
+                { "name": "小米", "value": 0 },
+                { "name": "社畜公司", "value": 0 },
+                { "name": "996公司","value": 0},
+                { "name": "阿里巴巴", "value": 0 },
+                { "name": "京东科技","value": 0}
+              ],
+              "children": [
+                {
+                  "value": 100,
+                  "name": "IT",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":70
+                    },
+                    {
+                      "name":"女",
+                      "value":30
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 40, "name": "国有企业" },
+                    { "value": 50, "name": "民营企业" },
+                    { "value": 10, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 30},
+                    {"name": "上海","value": 30},
+                    {"name": "广东","value": 20},
+                    {"name": "四川","value": 20}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "字节跳动", "value": 30 },
+                    { "name": "腾讯", "value": 30 },
+                    { "name": "华为", "value": 20 },
+                    { "name": "小红书", "value": 10 },
+                    { "name": "996公司","value": 10}
+                  ]
+                },
+                {
+                  "value": 25,
+                  "name": "金融业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":15
+                    },
+                    {
+                      "name":"女",
+                      "value":10
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 10, "name": "国有企业" },
+                    { "value": 10, "name": "民营企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 8},
+                    {"name": "广东","value": 10},
+                    {"name": "四川","value": 5}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "建设银行", "value": 20 },
+                    { "name": "工商银行", "value": 5 }
+                  ]
+                },
+                {
+                  "value": 9,
+                  "name": "制造业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":5
+                    },
+                    {
+                      "name":"女",
+                      "value":4
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" },
+                    { "value": 4, "name": "民营企业" },
+                    { "value": 1, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "黑心工厂1", "value": 5 },
+                    { "name": "黑心工厂2", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 5,
+                  "name": "机关",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":2
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 5, "name": "党政机关" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "北京市组织部", "value": 1 },
+                    { "name": "成都市组织部", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "电热燃水生产和供应业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":1
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 1},
+                    {"name": "上海","value": 1},
+                    {"name": "广东","value": 1},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "中石油", "value": 1 },
+                    { "name": "中石化", "value": 3 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "军队",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":4
+                    },
+                    {
+                      "name":"女",
+                      "value":0
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 2}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "解放台湾", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 16,
+                  "name": "其它",
+                  "children":[
+                    {"value":10,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":5
+                        },
+                        {
+                          "name":"女",
+                          "value":5
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 3, "name": "国有企业" },
+                        { "value": 3, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3},
+                        {"name": "广东","value": 3},
+                        {"name": "四川","value": 1}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 5 },
+                        { "name": "解放美国力量", "value": 5 }
+                      ]
+                    },
+                    {"value":6,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":3
+                        },
+                        {
+                          "name":"女",
+                          "value":3
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 1, "name": "国有企业" },
+                        { "value": 1, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 6 }
+                      ]
+                    }
+                  ],
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":10
+                    },
+                    {
+                      "name":"女",
+                      "value":6
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 6, "name": "国有企业" },
+                    { "value": 5, "name": "国有企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 10},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "社畜厂", "value": 10 },
+                    { "name": "解放美国力量", "value": 10 }
+                  ]
+                }
+              ]
+            },
+            {
+              "name":"深造",
+              "value":250,
+              "r":255,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":120
+                },
+                {
+                  "name":"女",
+                  "value":130
+                }
+              ],
+              "data_pie":[
+                { "value": 200, "name": "国内" },
+                { "value": 50, "name": "国外" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 250},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "四川大学", "value": 20 },
+                { "name": "电子科技大学", "value": 60 },
+                { "name": "重庆大学", "value": 34 },
+                { "name": "清华大学", "value": 4 },
+                { "name": "北京大学", "value": 27 },
+                { "name": "浙江大学", "value": 6 },
+                { "name": "复旦大学", "value": 19},
+                { "name": "上海交通大学", "value": 8 },
+                { "name": "天津大学", "value": 9 },
+                { "name": "中山大学", "value": 17 },
+                { "name": "华南理工大学", "value": 3 },
+                { "name": "南方科技大学", "value": 8 },
+                { "name": "北京邮电大学", "value": 7 },
+                { "name": "中国人民大学", "value": 6 },
+                { "name": "兰州大学", "value": 11 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year":"2021",
+      "value":400,
+      "data_sexchart":[
+        {
+          "name":"男",
+          "value":250
+        },
+        {
+          "name":"女",
+          "value":150
+        }
+      ],
+      "data_pie":[
+        {
+          "name":"国内深造",
+          "value":200
+        },
+        {
+          "name":"国外深造",
+          "value":50
+        },
+        { "value": 60, "name": "国有企业" },
+        { "value": 60, "name": "民营企业" },
+        { "value": 20, "name": "党政机关" },
+        { "value": 8, "name": "部队" },
+        { "value": 2, "name": "其它" }
+      ],
+      "data_map":[
+        {"name": "北京","value": 23},
+        {"name": "天津","value": 5},
+        {"name": "上海","value": 25},
+        {"name": "重庆","value": 50},
+        {"name": "河北","value": 3},
+        {"name": "河南","value": 2},
+        {"name": "云南","value": 5},
+        {"name": "辽宁","value": 5},
+        {"name": "黑龙江","value": 4},
+        {"name": "湖南","value": 7},
+        {"name": "安徽","value": 1},
+        {"name": "山东","value": 15},
+        {"name": "新疆","value": 20},
+        {"name": "江苏","value": 20},
+        {"name": "浙江","value": 25},
+        {"name": "江西","value": 17},
+        {"name": "湖北","value": 10},
+        {"name": "广西","value": 90},
+        {"name": "甘肃","value": 3},
+        {"name": "山西","value": 3},
+        {"name": "内蒙古","value": 4},
+        {"name": "陕西","value": 20},
+        {"name": "吉林","value": 5},
+        {"name": "福建","value": 3},
+        {"name": "贵州","value": 10},
+        {"name": "广东","value": 31},
+        {"name": "青海","value": 8},
+        {"name": "西藏","value": 0},
+        {"name": "四川","value": 90},
+        {"name": "宁夏","value": 5},
+        {"name": "海南","value": 5},
+        {"name": "台湾","value": 1},
+        {"name": "香港","value": 3},
+        {"name": "澳门","value": 2}
+      ],
+      "data_wordCloud":[
+        { "name": "四川大学", "value": 20 },
+        { "name": "电子科技大学", "value": 60 },
+        { "name": "重庆大学", "value": 34 },
+        { "name": "清华大学", "value": 4 },
+        { "name": "北京大学", "value": 27 },
+        { "name": "浙江大学", "value": 6 },
+        { "name": "复旦大学", "value": 19},
+        { "name": "上海交通大学", "value": 8 },
+        { "name": "天津大学", "value": 9 },
+        { "name": "中山大学", "value": 17 },
+        { "name": "华南理工大学", "value": 3 },
+        { "name": "南方科技大学", "value": 8 },
+        { "name": "北京邮电大学", "value": 7 },
+        { "name": "中国人民大学", "value": 6 },
+        { "name": "兰州大学", "value": 11 },
+        { "name": "字节跳动", "value": 5 },
+        { "name": "腾讯", "value": 8 },
+        { "name": "华为", "value": 1 },
+        { "name": "小红书", "value": 13 },
+        { "name": "成都市政府", "value": 9 },
+        { "name": "B站", "value": 37 },
+        { "name": "小米", "value": 19 },
+        { "name": "社畜公司", "value": 13 },
+        { "name": "996公司","value": 6},
+        { "name": "阿里巴巴", "value": 8 },
+        { "name": "京东科技","value": 3}
+      ],
+      "data_sunburst":[
+        {
+          "name":"全部",
+          "value":400,
+          "itemStyle": {
+            "borderColor": "#00f2f1",
+            "borderWidth": 0
+          },
+          "children":[
+            {
+              "name":"就业",
+              "value":150,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":100
+                },
+                {
+                  "name":"女",
+                  "value":50
+                }
+              ],
+              "data_pie":[
+                { "value": 60, "name": "国有企业" },
+                { "value": 60, "name": "民营企业" },
+                { "value": 20, "name": "党政机关" },
+                { "value": 8, "name": "部队" },
+                { "value": 2, "name": "其它" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 150},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "字节跳动", "value": 100 },
+                { "name": "腾讯", "value": 30 },
+                { "name": "华为", "value": 10 },
+                { "name": "小红书", "value": 10 },
+                { "name": "成都市政府", "value": 0 },
+                { "name": "B站", "value": 0 },
+                { "name": "小米", "value": 0 },
+                { "name": "社畜公司", "value": 0 },
+                { "name": "996公司","value": 0},
+                { "name": "阿里巴巴", "value": 0 },
+                { "name": "京东科技","value": 0}
+              ],
+              "children": [
+                {
+                  "value": 100,
+                  "name": "IT",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":70
+                    },
+                    {
+                      "name":"女",
+                      "value":30
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 40, "name": "国有企业" },
+                    { "value": 50, "name": "民营企业" },
+                    { "value": 10, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 30},
+                    {"name": "上海","value": 30},
+                    {"name": "广东","value": 20},
+                    {"name": "四川","value": 20}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "字节跳动", "value": 30 },
+                    { "name": "腾讯", "value": 30 },
+                    { "name": "华为", "value": 20 },
+                    { "name": "小红书", "value": 10 },
+                    { "name": "996公司","value": 10}
+                  ]
+                },
+                {
+                  "value": 25,
+                  "name": "金融业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":15
+                    },
+                    {
+                      "name":"女",
+                      "value":10
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 10, "name": "国有企业" },
+                    { "value": 10, "name": "民营企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 8},
+                    {"name": "广东","value": 10},
+                    {"name": "四川","value": 5}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "建设银行", "value": 20 },
+                    { "name": "工商银行", "value": 5 }
+                  ]
+                },
+                {
+                  "value": 9,
+                  "name": "制造业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":5
+                    },
+                    {
+                      "name":"女",
+                      "value":4
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" },
+                    { "value": 4, "name": "民营企业" },
+                    { "value": 1, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 2},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "黑心工厂1", "value": 5 },
+                    { "name": "黑心工厂2", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 5,
+                  "name": "机关",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":2
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 5, "name": "党政机关" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 3}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "北京市组织部", "value": 1 },
+                    { "name": "成都市组织部", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "电热燃水生产和供应业",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":3
+                    },
+                    {
+                      "name":"女",
+                      "value":1
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "国有企业" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 1},
+                    {"name": "上海","value": 1},
+                    {"name": "广东","value": 1},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "中石油", "value": 1 },
+                    { "name": "中石化", "value": 3 }
+                  ]
+                },
+                {
+                  "value": 4,
+                  "name": "军队",
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":4
+                    },
+                    {
+                      "name":"女",
+                      "value":0
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 4, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 0},
+                    {"name": "上海","value": 0},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 2}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "解放台湾", "value": 4 }
+                  ]
+                },
+                {
+                  "value": 16,
+                  "name": "其它",
+                  "children":[
+                    {"value":10,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":5
+                        },
+                        {
+                          "name":"女",
+                          "value":5
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 3, "name": "国有企业" },
+                        { "value": 3, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3},
+                        {"name": "广东","value": 3},
+                        {"name": "四川","value": 1}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 5 },
+                        { "name": "解放美国力量", "value": 5 }
+                      ]
+                    },
+                    {"value":6,
+                      "name":"打工",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":3
+                        },
+                        {
+                          "name":"女",
+                          "value":3
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 1, "name": "国有企业" },
+                        { "value": 1, "name": "私有企业" },
+                        { "value": 4, "name": "其它" }
+                      ],
+                      "data_map":[
+                        {"name": "北京","value": 3},
+                        {"name": "上海","value": 3}
+                      ],
+                      "data_wordCloud":[
+                        { "name": "社畜厂", "value": 6 }
+                      ]
+                    }
+                  ],
+                  "data_sexchart":[
+                    {
+                      "name":"男",
+                      "value":10
+                    },
+                    {
+                      "name":"女",
+                      "value":6
+                    }
+                  ],
+                  "data_pie":[
+                    { "value": 6, "name": "国有企业" },
+                    { "value": 5, "name": "国有企业" },
+                    { "value": 5, "name": "其它" }
+                  ],
+                  "data_map":[
+                    {"name": "北京","value": 10},
+                    {"name": "上海","value": 2},
+                    {"name": "广东","value": 2},
+                    {"name": "四川","value": 1}
+                  ],
+                  "data_wordCloud":[
+                    { "name": "社畜厂", "value": 10 },
+                    { "name": "解放美国力量", "value": 10 }
+                  ]
+                }
+              ]
+            },
+            {
+              "name":"深造",
+              "value":250,
+              "r":255,
+              "data_sexchart":[
+                {
+                  "name":"男",
+                  "value":120
+                },
+                {
+                  "name":"女",
+                  "value":130
+                }
+              ],
+              "data_pie":[
+                { "value": 200, "name": "国内" },
+                { "value": 50, "name": "国外" }
+              ],
+              "data_map":[
+                {"name": "北京","value": 250},
+                {"name": "天津","value": 0},
+                {"name": "上海","value": 0},
+                {"name": "重庆","value": 0},
+                {"name": "河北","value": 0},
+                {"name": "河南","value": 0},
+                {"name": "云南","value": 0},
+                {"name": "辽宁","value": 0},
+                {"name": "黑龙江","value": 0},
+                {"name": "湖南","value": 0},
+                {"name": "安徽","value": 0},
+                {"name": "山东","value": 0},
+                {"name": "新疆","value": 0},
+                {"name": "江苏","value": 0},
+                {"name": "浙江","value": 0},
+                {"name": "江西","value": 0},
+                {"name": "湖北","value": 0},
+                {"name": "广西","value": 0},
+                {"name": "甘肃","value": 0},
+                {"name": "山西","value": 0},
+                {"name": "内蒙古","value": 0},
+                {"name": "陕西","value": 0},
+                {"name": "吉林","value": 0},
+                {"name": "福建","value": 0},
+                {"name": "贵州","value": 0},
+                {"name": "广东","value": 0},
+                {"name": "青海","value": 0},
+                {"name": "西藏","value": 0},
+                {"name": "四川","value": 0},
+                {"name": "宁夏","value": 0},
+                {"name": "海南","value": 0},
+                {"name": "台湾","value": 0},
+                {"name": "香港","value": 0},
+                {"name": "澳门","value": 0}
+              ],
+              "data_wordCloud":[
+                { "name": "四川大学", "value": 20 },
+                { "name": "电子科技大学", "value": 60 },
+                { "name": "重庆大学", "value": 34 },
+                { "name": "清华大学", "value": 4 },
+                { "name": "北京大学", "value": 27 },
+                { "name": "浙江大学", "value": 6 },
+                { "name": "复旦大学", "value": 19},
+                { "name": "上海交通大学", "value": 8 },
+                { "name": "天津大学", "value": 9 },
+                { "name": "中山大学", "value": 17 },
+                { "name": "华南理工大学", "value": 3 },
+                { "name": "南方科技大学", "value": 8 },
+                { "name": "北京邮电大学", "value": 7 },
+                { "name": "中国人民大学", "value": 6 },
+                { "name": "兰州大学", "value": 11 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+]
