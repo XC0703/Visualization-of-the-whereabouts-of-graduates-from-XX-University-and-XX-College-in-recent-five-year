@@ -8,9 +8,9 @@ function fun_gdpchart(data_gdp_name,data_gpa_value){
     // 2.指定配置和数据
     let option = {
       tooltip: {
-        trigger: 'axis',
+        trigger: 'item',//坑
         axisPointer: {
-            type: 'none'
+            type: 'shadow'
         }
       },
       legend: {
