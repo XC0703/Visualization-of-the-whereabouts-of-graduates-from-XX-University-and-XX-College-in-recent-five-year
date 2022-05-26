@@ -44,7 +44,7 @@ function fun_sunburst(data_sunburst,obj_student){
               r0:0,
               r:10,
               itemStyle: {
-                color:'#87CEFA'
+                color:'#4F94CD'
               },
             },
             {
@@ -54,7 +54,7 @@ function fun_sunburst(data_sunburst,obj_student){
                 rotate: 0
               },
               itemStyle: {
-                color: 	'#87CEEB'
+                color:'#3A5FCD'
               },
             },
             {

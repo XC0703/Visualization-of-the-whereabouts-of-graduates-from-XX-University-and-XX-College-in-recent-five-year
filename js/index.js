@@ -71,7 +71,6 @@ fun_gdpchart(getgdp().data_gdp_name,getgdp().data_gdp_value);
 var obj_wage=wageData[4];
 // 将平均工资提取(即改成函数需要的参数格式)
 function getwage(){
-  console.log(obj_wage)
   const obj_wage_clone = JSON.parse(JSON.stringify(obj_wage));//记录原本的对象，深拷贝
   var data_wage_value = new Array();
   let len = obj_wage_clone.data.length;
@@ -133,7 +132,7 @@ $(".rlplist").on("click","li",function(){
     fun_wagechart(getwage());
   }
 });
-console.log(echarts.version)//echarts版本
+// console.log(echarts.version)//echarts版本
 
 
 
