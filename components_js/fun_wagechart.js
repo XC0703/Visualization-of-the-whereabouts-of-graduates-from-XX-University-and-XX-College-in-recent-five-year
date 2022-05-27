@@ -27,16 +27,19 @@ function fun_wagechart(data_wage){
       },
       grid: {
         show: false,
-        top: 10,
-        bottom: 10,
+        top: 2,
+        bottom: 2,
+        left:5,
+        right:15
+
       },
       xAxis: [
         {
           gridIndex: 0,
           type: "value",
           show: false,
-          min: 2000,
-          max: 20000,
+          min: 35000,
+          max: 210000,
           nameLocation: "middle",
           nameGap: 5,
         },
@@ -54,7 +57,7 @@ function fun_wagechart(data_wage){
       tooltip:{
         trigger:'item',
         formatter: function (params) { 
-          return params.name + ' : '+params.value[0]; 
+          return params.name + ' : '+params.value[0]+"元/年"; 
         } 
       },
       series: [
@@ -64,14 +67,14 @@ function fun_wagechart(data_wage){
           symbol: "circle",
           colorBy:"data",
           symbolSize: (value,params) => {//让工资大小与球的大小挂钩
-            return Math.sqrt(value[0]);
+            return Math.sqrt(value[0]/15);
           },
           label: {
               show: true,
               formatter: "{b}\n{@0}",
               color: "#fff",
               textStyle: {
-                fontSize: "12",
+                fontSize: "10",
               },
           },
           itemStyle: {

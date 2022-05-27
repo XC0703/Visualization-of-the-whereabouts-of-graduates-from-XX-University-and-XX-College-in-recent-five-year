@@ -89,10 +89,10 @@ function fun_hotwords(data_hotwords){
           type: "wordCloud",
           drawOutOfBound:true,
           gridSize: 20,
-          sizeRange: [5, 30],
-          rotationRange: [-80, 80],
-          // 允许词太大的时候，超出画布的范围
-          drawOutOfBound: false,
+          sizeRange: [5, 20],
+          rotationRange: [-50, 50],
+          // // 允许词太大的时候，超出画布的范围，设置为false会少词
+          // drawOutOfBound: false,
           shape: "circle",
           textStyle: {
             color: (params) => {

@@ -54,21 +54,21 @@ function fun_sunburst(data_sunburst,obj_student){
                 rotate: 0
               },
               itemStyle: {
-                color:'#3A5FCD'
+                color:'#F98862'
               },
             },
             {
               r0: 30,
               r: 80,
               itemStyle: {
-                color:'#87CEEB'
+                color:'#AEC48F'
               },
             },
             {
               r0: 80,
               r:255,
               itemStyle: {
-                color: 	'#87CEFA',
+                color: 	'#FFDB5C',
               },
             },
             {

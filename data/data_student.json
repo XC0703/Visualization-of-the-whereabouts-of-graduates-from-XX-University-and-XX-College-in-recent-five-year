@@ -1,6 +1,6 @@
 [
     {
-    "year":"2017",
+    "year":"全部",
     "value":400,
     "data_sexchart":[
       {
@@ -502,509 +502,4489 @@
       }
     ]
     },
-    {
-      "year":"2018",
-      "value":400,
-      "data_sexchart":[
-        {
-          "name":"男",
-          "value":250
+  {
+    "year": "2017",
+    "value": 376,
+    "data_sexchart": [
+      {
+        "name": "男",
+        "value": 273
+      },
+      {
+        "name": "女",
+        "value": 103
+      }
+    ],
+    "data_pie": [
+      {
+        "name": "国内深造",
+        "value": 91
+      },
+      {
+        "name": "国外深造",
+        "value": 44
+      },
+      {
+        "name": "三资企业",
+        "value": 21
+      },
+      {
+        "name": "中初教育单位",
+        "value": 8
+      },
+      {
+        "name": "其他",
+        "value": 26
+      },
+      {
+        "name": "其他事业单位",
+        "value": 2
+      },
+      {
+        "name": "医疗卫生单位",
+        "value": 1
+      },
+      {
+        "name": "国有企业",
+        "value": 38
+      },
+      {
+        "name": "机关",
+        "value": 9
+      },
+      {
+        "name": "民营企业",
+        "value": 118
+      },
+      {
+        "name": "科研设计单位",
+        "value": 2
+      },
+      {
+        "name": "部队",
+        "value": 16
+      }
+    ],
+    "data_map": [
+      {
+        "name": "上海",
+        "value": 18
+      },
+      {
+        "name": "云南",
+        "value": 1
+      },
+      {
+        "name": "内蒙古",
+        "value": 1
+      },
+      {
+        "name": "北京",
+        "value": 40
+      },
+      {
+        "name": "四川",
+        "value": 123
+      },
+      {
+        "name": "天津",
+        "value": 3
+      },
+      {
+        "name": "宁夏",
+        "value": 1
+      },
+      {
+        "name": "安徽",
+        "value": 6
+      },
+      {
+        "name": "山东",
+        "value": 4
+      },
+      {
+        "name": "广东",
+        "value": 60
+      },
+      {
+        "name": "广西",
+        "value": 1
+      },
+      {
+        "name": "新疆",
+        "value": 1
+      },
+      {
+        "name": "江苏",
+        "value": 7
+      },
+      {
+        "name": "河北",
+        "value": 2
+      },
+      {
+        "name": "河南",
+        "value": 1
+      },
+      {
+        "name": "浙江",
+        "value": 14
+      },
+      {
+        "name": "湖北",
+        "value": 8
+      },
+      {
+        "name": "湖南",
+        "value": 10
+      },
+      {
+        "name": "甘肃",
+        "value": 1
+      },
+      {
+        "name": "福建",
+        "value": 3
+      },
+      {
+        "name": "贵州",
+        "value": 1
+      },
+      {
+        "name": "辽宁",
+        "value": 1
+      },
+      {
+        "name": "重庆",
+        "value": 7
+      },
+      {
+        "name": "陕西",
+        "value": 2
+      },
+      {
+        "name": "青海",
+        "value": 2
+      }
+    ],
+    "data_wordCloud": [
+      {
+        "name": "中国香港",
+        "value": 3
+      },
+      {
+        "name": "百度",
+        "value": 3
+      },
+      {
+        "name": "万达",
+        "value": 3
+      },
+      {
+        "name": "北京航空航天大学",
+        "value": 3
+      },
+      {
+        "name": "成都龙渊网络",
+        "value": 3
+      },
+      {
+        "name": "新加坡",
+        "value": 3
+      },
+      {
+        "name": "国防科技大学计算机研究所银河技术服务部",
+        "value": 3
+      },
+      {
+        "name": "北京驰波",
+        "value": 3
+      },
+      {
+        "name": "华中科技大学",
+        "value": 4
+      },
+      {
+        "name": "深信服科技",
+        "value": 4
+      },
+      {
+        "name": "加拿大",
+        "value": 4
+      },
+      {
+        "name": "拟升学",
+        "value": 4
+      },
+      {
+        "name": "复旦大学",
+        "value": 4
+      },
+      {
+        "name": "成都以利沙教育咨询  ",
+        "value": 4
+      },
+      {
+        "name": "中国科学技术大学",
+        "value": 4
+      },
+      {
+        "name": "花旗",
+        "value": 4
+      },
+      {
+        "name": "华为成都研究所",
+        "value": 5
+      },
+      {
+        "name": "求职中",
+        "value": 5
+      },
+      {
+        "name": "日本",
+        "value": 5
+      },
+      {
+        "name": "澳大利亚",
+        "value": 5
+      },
+      {
+        "name": "英国",
+        "value": 6
+      },
+      {
+        "name": "华为",
+        "value": 6
+      },
+      {
+        "name": "成都尼毕鲁",
+        "value": 6
+      },
+      {
+        "name": "TP-LINK",
+        "value": 7
+      },
+      {
+        "name": "北京市第十一中学",
+        "value": 8
+      },
+      {
+        "name": "美国",
+        "value": 14
+      },
+      {
+        "name": "参军",
+        "value": 16
+      },
+      {
+        "name": "四川大学",
+        "value": 47
+      }
+    ],
+    "data_sunburst": [
+      {
+        "name": "全部",
+        "value": 376,
+        "itemStyle": {
+          "borderColor": "#00f2f1",
+          "borderWidth": 0
         },
-        {
-          "name":"女",
-          "value":150
-        }
-      ],
-      "data_pie":[
-        {
-          "name":"国内深造",
-          "value":200
-        },
-        {
-          "name":"国外深造",
-          "value":50
-        },
-        { "value": 60, "name": "国有企业" },
-        { "value": 60, "name": "民营企业" },
-        { "value": 20, "name": "党政机关" },
-        { "value": 8, "name": "部队" },
-        { "value": 2, "name": "其它" }
-      ],
-      "data_map":[
-        {"name": "北京","value": 23},
-        {"name": "天津","value": 5},
-        {"name": "上海","value": 25},
-        {"name": "重庆","value": 50},
-        {"name": "河北","value": 3},
-        {"name": "河南","value": 2},
-        {"name": "云南","value": 5},
-        {"name": "辽宁","value": 5},
-        {"name": "黑龙江","value": 4},
-        {"name": "湖南","value": 7},
-        {"name": "安徽","value": 1},
-        {"name": "山东","value": 15},
-        {"name": "新疆","value": 20},
-        {"name": "江苏","value": 20},
-        {"name": "浙江","value": 25},
-        {"name": "江西","value": 17},
-        {"name": "湖北","value": 10},
-        {"name": "广西","value": 90},
-        {"name": "甘肃","value": 3},
-        {"name": "山西","value": 3},
-        {"name": "内蒙古","value": 4},
-        {"name": "陕西","value": 20},
-        {"name": "吉林","value": 5},
-        {"name": "福建","value": 3},
-        {"name": "贵州","value": 10},
-        {"name": "广东","value": 31},
-        {"name": "青海","value": 8},
-        {"name": "西藏","value": 0},
-        {"name": "四川","value": 90},
-        {"name": "宁夏","value": 5},
-        {"name": "海南","value": 5},
-        {"name": "台湾","value": 1},
-        {"name": "香港","value": 3},
-        {"name": "澳门","value": 2}
-      ],
-      "data_wordCloud":[
-        { "name": "四川大学", "value": 20 },
-        { "name": "电子科技大学", "value": 60 },
-        { "name": "重庆大学", "value": 34 },
-        { "name": "清华大学", "value": 4 },
-        { "name": "北京大学", "value": 27 },
-        { "name": "浙江大学", "value": 6 },
-        { "name": "复旦大学", "value": 19},
-        { "name": "上海交通大学", "value": 8 },
-        { "name": "天津大学", "value": 9 },
-        { "name": "中山大学", "value": 17 },
-        { "name": "华南理工大学", "value": 3 },
-        { "name": "南方科技大学", "value": 8 },
-        { "name": "北京邮电大学", "value": 7 },
-        { "name": "中国人民大学", "value": 6 },
-        { "name": "兰州大学", "value": 11 },
-        { "name": "字节跳动", "value": 5 },
-        { "name": "腾讯", "value": 8 },
-        { "name": "华为", "value": 1 },
-        { "name": "小红书", "value": 13 },
-        { "name": "成都市政府", "value": 9 },
-        { "name": "B站", "value": 37 },
-        { "name": "小米", "value": 19 },
-        { "name": "社畜公司", "value": 13 },
-        { "name": "996公司","value": 6},
-        { "name": "阿里巴巴", "value": 8 },
-        { "name": "京东科技","value": 3}
-      ],
-      "data_sunburst":[
-        {
-          "name":"全部",
-          "value":400,
-          "itemStyle": {
-            "borderColor": "#00f2f1",
-            "borderWidth": 0
-          },
-          "children":[
-            {
-              "name":"就业",
-              "value":150,
-              "data_sexchart":[
-                {
-                  "name":"男",
-                  "value":100
-                },
-                {
-                  "name":"女",
-                  "value":50
-                }
-              ],
-              "data_pie":[
-                { "value": 60, "name": "国有企业" },
-                { "value": 60, "name": "民营企业" },
-                { "value": 20, "name": "党政机关" },
-                { "value": 8, "name": "部队" },
-                { "value": 2, "name": "其它" }
-              ],
-              "data_map":[
-                {"name": "北京","value": 150},
-                {"name": "天津","value": 0},
-                {"name": "上海","value": 0},
-                {"name": "重庆","value": 0},
-                {"name": "河北","value": 0},
-                {"name": "河南","value": 0},
-                {"name": "云南","value": 0},
-                {"name": "辽宁","value": 0},
-                {"name": "黑龙江","value": 0},
-                {"name": "湖南","value": 0},
-                {"name": "安徽","value": 0},
-                {"name": "山东","value": 0},
-                {"name": "新疆","value": 0},
-                {"name": "江苏","value": 0},
-                {"name": "浙江","value": 0},
-                {"name": "江西","value": 0},
-                {"name": "湖北","value": 0},
-                {"name": "广西","value": 0},
-                {"name": "甘肃","value": 0},
-                {"name": "山西","value": 0},
-                {"name": "内蒙古","value": 0},
-                {"name": "陕西","value": 0},
-                {"name": "吉林","value": 0},
-                {"name": "福建","value": 0},
-                {"name": "贵州","value": 0},
-                {"name": "广东","value": 0},
-                {"name": "青海","value": 0},
-                {"name": "西藏","value": 0},
-                {"name": "四川","value": 0},
-                {"name": "宁夏","value": 0},
-                {"name": "海南","value": 0},
-                {"name": "台湾","value": 0},
-                {"name": "香港","value": 0},
-                {"name": "澳门","value": 0}
-              ],
-              "data_wordCloud":[
-                { "name": "字节跳动", "value": 100 },
-                { "name": "腾讯", "value": 30 },
-                { "name": "华为", "value": 10 },
-                { "name": "小红书", "value": 10 },
-                { "name": "成都市政府", "value": 0 },
-                { "name": "B站", "value": 0 },
-                { "name": "小米", "value": 0 },
-                { "name": "社畜公司", "value": 0 },
-                { "name": "996公司","value": 0},
-                { "name": "阿里巴巴", "value": 0 },
-                { "name": "京东科技","value": 0}
-              ],
-              "children": [
-                {
-                  "value": 100,
-                  "name": "IT",
-                  "data_sexchart":[
+        "children": [
+          {
+            "name": "就业",
+            "value": 241,
+            "data_sexchart": [
+              {
+                "name": "男",
+                "value": 187
+              },
+              {
+                "name": "女",
+                "value": 54
+              }
+            ],
+            "data_pie": [
+              {
+                "name": "三资企业",
+                "value": 21
+              },
+              {
+                "name": "中初教育单位",
+                "value": 8
+              },
+              {
+                "name": "其他",
+                "value": 26
+              },
+              {
+                "name": "其他事业单位",
+                "value": 2
+              },
+              {
+                "name": "医疗卫生单位",
+                "value": 1
+              },
+              {
+                "name": "国有企业",
+                "value": 38
+              },
+              {
+                "name": "机关",
+                "value": 9
+              },
+              {
+                "name": "民营企业",
+                "value": 118
+              },
+              {
+                "name": "科研设计单位",
+                "value": 2
+              },
+              {
+                "name": "部队",
+                "value": 16
+              }
+            ],
+            "data_map": [
+              {
+                "name": "上海",
+                "value": 11
+              },
+              {
+                "name": "云南",
+                "value": 1
+              },
+              {
+                "name": "内蒙古",
+                "value": 1
+              },
+              {
+                "name": "北京",
+                "value": 29
+              },
+              {
+                "name": "四川",
+                "value": 76
+              },
+              {
+                "name": "天津",
+                "value": 3
+              },
+              {
+                "name": "宁夏",
+                "value": 1
+              },
+              {
+                "name": "安徽",
+                "value": 1
+              },
+              {
+                "name": "山东",
+                "value": 4
+              },
+              {
+                "name": "广东",
+                "value": 60
+              },
+              {
+                "name": "广西",
+                "value": 1
+              },
+              {
+                "name": "新疆",
+                "value": 1
+              },
+              {
+                "name": "江苏",
+                "value": 4
+              },
+              {
+                "name": "河北",
+                "value": 2
+              },
+              {
+                "name": "河南",
+                "value": 1
+              },
+              {
+                "name": "浙江",
+                "value": 12
+              },
+              {
+                "name": "湖北",
+                "value": 2
+              },
+              {
+                "name": "湖南",
+                "value": 4
+              },
+              {
+                "name": "甘肃",
+                "value": 1
+              },
+              {
+                "name": "福建",
+                "value": 3
+              },
+              {
+                "name": "贵州",
+                "value": 1
+              },
+              {
+                "name": "辽宁",
+                "value": 1
+              },
+              {
+                "name": "重庆",
+                "value": 7
+              },
+              {
+                "name": "陕西",
+                "value": 2
+              },
+              {
+                "name": "青海",
+                "value": 2
+              }
+            ],
+            "data_wordCloud": [
+              {
+                "name": "菜鸟",
+                "value": 2
+              },
+              {
+                "name": "四川中测微格",
+                "value": 2
+              },
+              {
+                "name": "深圳卷皮网络",
+                "value": 2
+              },
+              {
+                "name": "成都软通动力",
+                "value": 2
+              },
+              {
+                "name": "深圳四方精创",
+                "value": 2
+              },
+              {
+                "name": "中兴",
+                "value": 2
+              },
+              {
+                "name": "北京科蓝软件",
+                "value": 2
+              },
+              {
+                "name": "成都微果快线",
+                "value": 2
+              },
+              {
+                "name": "奥克斯",
+                "value": 2
+              },
+              {
+                "name": "成都良田科技",
+                "value": 2
+              },
+              {
+                "name": "成都腾讯",
+                "value": 2
+              },
+              {
+                "name": "成都雅堂投资",
+                "value": 2
+              },
+              {
+                "name": "北京字节跳动",
+                "value": 2
+              },
+              {
+                "name": "深圳金证科技",
+                "value": 2
+              },
+              {
+                "name": "成都诺铱科技",
+                "value": 2
+              },
+              {
+                "name": "拟参加公招考试",
+                "value": 2
+              },
+              {
+                "name": "招商银行深圳分行",
+                "value": 2
+              },
+              {
+                "name": "成都风际网络",
+                "value": 2
+              },
+              {
+                "name": "万达",
+                "value": 3
+              },
+              {
+                "name": "北京百度",
+                "value": 3
+              },
+              {
+                "name": "成都龙渊",
+                "value": 3
+              },
+              {
+                "name": "北京驰波",
+                "value": 3
+              },
+              {
+                "name": "国防科技大学计算机研究所银河技术服务部",
+                "value": 3
+              },
+              {
+                "name": "深信服科技",
+                "value": 4
+              },
+              {
+                "name": "成都以利沙教育咨询",
+                "value": 4
+              },
+              {
+                "name": "花旗",
+                "value": 4
+              },
+              {
+                "name": "华为成都研究所",
+                "value": 5
+              },
+              {
+                "name": "求职中",
+                "value": 5
+              },
+              {
+                "name": "成都尼毕鲁科技",
+                "value": 6
+              },
+              {
+                "name": "华为",
+                "value": 6
+              },
+              {
+                "name": "TP-LINK",
+                "value": 7
+              },
+              {
+                "name": "北京市第十一中学",
+                "value": 8
+              },
+              {
+                "name": "参军",
+                "value": 16
+              }
+            ],
+            "children": [
+              {
+                "value": 116,
+                "name": "IT",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 91
+                  },
+                  {
+                    "name": "女",
+                    "value": 25
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "三资企业",
+                    "value": 16
+                  },
+                  {
+                    "name": "其他",
+                    "value": 6
+                  },
+                  {
+                    "name": "国有企业",
+                    "value": 14
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 78
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "上海",
+                    "value": 8
+                  },
+                  {
+                    "name": "北京",
+                    "value": 15
+                  },
+                  {
+                    "name": "四川",
+                    "value": 32
+                  },
+                  {
+                    "name": "天津",
+                    "value": 2
+                  },
+                  {
+                    "name": "安徽",
+                    "value": 1
+                  },
+                  {
+                    "name": "山东",
+                    "value": 1
+                  },
+                  {
+                    "name": "广东",
+                    "value": 42
+                  },
+                  {
+                    "name": "江苏",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江",
+                    "value": 6
+                  },
+                  {
+                    "name": "湖北",
+                    "value": 2
+                  },
+                  {
+                    "name": "福建",
+                    "value": 1
+                  },
+                  {
+                    "name": "重庆",
+                    "value": 2
+                  },
+                  {
+                    "name": "青海",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "万达",
+                    "value": 3
+                  },
+                  {
+                    "name": "上海汉得信息",
+                    "value": 2
+                  },
+                  {
+                    "name": "上海点荣金融",
+                    "value": 1
+                  },
+                  {
+                    "name": "中兴",
+                    "value": 2
+                  },
+                  {
+                    "name": "中国联合网络通信青海分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "中移物联网 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京三快在线科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京华如科技成都分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京字节跳动",
+                    "value": 2
+                  },
+                  {
+                    "name": "北京科蓝软件",
+                    "value": 2
+                  },
+                  {
+                    "name": "北京谷数科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京驰波",
+                    "value": 3
+                  },
+                  {
+                    "name": "华为",
+                    "value": 6
+                  },
+                  {
+                    "name": "南京国睿信维软件",
+                    "value": 1
+                  },
+                  {
+                    "name": "南京烽火软件科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川一池云锦科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川倍发科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "今日头条",
+                    "value": 1
+                  },
+                  {
+                    "name": "天津神舟",
+                    "value": 1
+                  },
+                  {
+                    "name": "天维尔信息科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "太极计算机",
+                    "value": 1
+                  },
+                  {
+                    "name": "宁波波导软件",
+                    "value": 1
+                  },
+                  {
+                    "name": "平安科技(深圳)成都分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "广东欧玻移动通信 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "广州华多网络 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "广州市骑鹅游成都分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "微景天下成都科技 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "微梦创科网络科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "慧众行知科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都博智维讯 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都国美大数据",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都天奥软件",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都尼毕鲁科技",
+                    "value": 6
+                  },
+                  {
+                    "name": "成都汇智云天科技 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都良田科技 ",
+                    "value": 2
+                  },
+                  {
+                    "name": "成都诺铱科技 ",
+                    "value": 2
+                  },
+                  {
+                    "name": "成都风际网络",
+                    "value": 2
+                  },
+                  {
+                    "name": "成都龙渊网络",
+                    "value": 3
+                  },
+                  {
+                    "name": "招银网络科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "TP-LINK",
+                    "value": 7
+                  },
+                  {
+                    "name": "杭州朗和科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "杭州萱草科技 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "武汉恒扬聚数科技 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "同花顺",
+                    "value": 1
+                  },
+                  {
+                    "name": "浪潮集团 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "淘宝",
+                    "value": 1
+                  },
+                  {
+                    "name": "深信服科技",
+                    "value": 4
+                  },
+                  {
+                    "name": "深圳云天励飞",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳卷皮网络",
+                    "value": 2
+                  },
+                  {
+                    "name": "深圳四方精创",
+                    "value": 2
+                  },
+                  {
+                    "name": "深圳天珑无线科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳工作家网络科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市前海铂菁科技 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市吉祥腾达科技 ",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市天珑移动技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市普广科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市永业源电子科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市科曼信息",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市网安计算机安全检测",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳易帆互动科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳维恩贝特科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳警翼智能科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京百度",
+                    "value": 3
+                  },
+                  {
+                    "name": "福建网龙计算机",
+                    "value": 1
+                  },
+                  {
+                    "name": "科大讯飞",
+                    "value": 1
+                  },
+                  {
+                    "name": "VIVO",
+                    "value": 1
+                  },
+                  {
+                    "name": "网站运营",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都腾讯",
+                    "value": 2
+                  },
+                  {
+                    "name": "深圳腾讯",
+                    "value": 1
+                  },
+                  {
+                    "name": "艾酷通信",
+                    "value": 1
+                  },
+                  {
+                    "name": "花旗",
+                    "value": 4
+                  },
+                  {
+                    "name": "软通动力",
+                    "value": 3
+                  },
+                  {
+                    "name": "重庆数字城市科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "阿里巴巴",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 14,
+                "name": "金融业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 10
+                  },
+                  {
+                    "name": "女",
+                    "value": 4
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "value": 10,
+                    "name": "国有企业"
+                  },
+                  {
+                    "value": 3,
+                    "name": "民营企业"
+                  },
+                  {
+                    "value": 1,
+                    "name": "其他事业单位"
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "上海",
+                    "value": 1
+                  },
+                  {
+                    "name": "云南",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川",
+                    "value": 2
+                  },
+                  {
+                    "name": "广东",
+                    "value": 5
+                  },
+                  {
+                    "name": "河北",
+                    "value": 1
+                  },
+                  {
+                    "name": "福建",
+                    "value": 2
+                  },
+                  {
+                    "name": "重庆",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "厦门国际银行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国农业银行总行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国建设银行云南省分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国建设银行四川省分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国银行上海市分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国银行沧州分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "乐山市商业银行",
+                    "value": 1
+                  },
+                  {
+                    "name": "招商银行深圳分行",
+                    "value": 2
+                  },
+                  {
+                    "name": "浦发信用卡中心福州分部",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳前海大道金融服务",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市金证科技",
+                    "value": 2
+                  },
+                  {
+                    "name": "重庆农村商业银行",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 14,
+                "name": "制造业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 9
+                  },
+                  {
+                    "name": "女",
+                    "value": 5
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "三资企业",
+                    "value": 3
+                  },
+                  {
+                    "name": "国有企业",
+                    "value": 3
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 8
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "内蒙古",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京",
+                    "value": 2
+                  },
+                  {
+                    "name": "四川",
+                    "value": 1
+                  },
+                  {
+                    "name": "宁夏",
+                    "value": 1
+                  },
+                  {
+                    "name": "广东",
+                    "value": 6
+                  },
+                  {
+                    "name": "广西",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江",
+                    "value": 2
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name":"东风柳州汽车",
+                    "value":1
+                  },
+                  {
+                    "name":"内蒙古第一机械集团",
+                    "value":1
+                  },
+                  {
+                    "name":"北京路桥永朋金诺机械",
+                    "value":1
+                  },
+                  {
+                    "name":"长虹",
+                    "value":1
+                  },
+                  {
+                    "name":"奥克斯",
+                    "value":2
+                  },
+                  {
+                    "name":"宁夏共享集团",
+                    "value":1
+                  },
+                  {
+                    "name":"富士康",
+                    "value":1
+                  },
+                  {
+                    "name":"步步高",
+                    "value":1
+                  },
+                  {
+                    "name":"惠州华阳通用电子",
+                    "value":1
+                  },
+                  {
+                    "name":"比亚迪",
+                    "value":1
+                  },
+                  {
+                    "name":"深圳普威技术",
+                    "value":1
+                  },
+                  {
+                    "name":"深圳沃特玛电池",
+                    "value":1
+                  },
+                  {
+                    "name":"联想",
+                    "value":1
+                  }
+                ]
+              },
+              {
+                "value": 9,
+                "name": "机关",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 5
+                  },
+                  {
+                    "name": "女",
+                    "value": 4
+                  }
+                ],
+                "data_pie": [
+                  { "value": 9, "name": "机关" }
+                ],
+                "data_map": [
+                  {"name": "山东","value": 1},
+                  {"name": "重庆","value": 1},
+                  {"name": "甘肃","value": 1},
+                  {"name": "广东","value": 1},
+                  {"name": "四川","value": 1},
+                  {"name": "江苏","value": 1},
+                  {"name": "浙江","value": 1},
+                  {"name": "新疆","value": 1},
+                  {"name": "青海","value": 1}
+                ],
+                "data_wordCloud": [
+                  { "name": "山东省菏泽市单县国家税务局", "value": 1 },
+                  { "name": "重庆市两江新区国家税务局", "value": 1 },
+                  { "name": "肃南裕固族自治县农业农村局", "value": 1 },
+                  { "name": "中国民用航空中南地区管理局", "value": 1 },
+                  { "name": "四川省昭觉县公安局", "value": 1 },
+                  { "name": "苏州市吴江区国家税务局", "value": 1 },
+                  { "name": "中华人民共和国杭州海关", "value": 1 },
+                  { "name": "新疆乌鲁木齐市水磨沟区政府", "value": 1 },
+                  {"name": "中共青海省委组织部", "value": 1 }
+                ]
+              },
+              {
+                "value": 16,
+                "name": "军队",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 16
+                  },
+                  {
+                    "name": "女",
+                    "value": 0
+                  }
+                ],
+                "data_pie": [
+                  { "value": 16, "name": "部队" }
+                ],
+                "data_map": [
+                  {
+                    "name":"四川",
+                    "value":16
+                   }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "中国人民解放军部队",
+                    "value": 16
+                  }
+                ]
+              },
+              {
+                "value": 11,
+                "name": "其它",
+                "children": [
+                  {
+                    "value": 1,
+                    "name": "采矿业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 0
+                      }
+                    ],
+                    "data_pie": [
+                      { "value": 1, "name": "民营企业" }
+                    ],
+                    "data_map": [
+                      {"name": "辽宁","value": 1}
+                    ],
+                    "data_wordCloud": [
+                      { "name": "盘锦鹏瀚石油化工科技", "value": 1 }
+                    ]
+                  },
+                  {
+                    "value": 3,
+                    "name": "电热燃水生产和供应业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 3
+                      },
+                      {
+                        "name": "女",
+                        "value": 0
+                      }
+                    ],
+                    "data_pie": [
+                      { "value": 3, "name": "国有企业" }
+                    ],
+                    "data_map": [
+                      {"name": "山东","value": 1},
+                      {"name": "广东","value": 1},
+                      {"name": "四川","value": 1}
+                    ],
+                    "data_wordCloud": [
+                      { "name": "国家电网(资阳)", "value": 1 },
+                      { "name": "山东水发天源水务集团", "value": 1 },
+                      { "name": "深圳市深水宝安水务集团", "value": 1 }
+                    ]
+                  },
+                  {
+                    "value": 3,
+                    "name": "房地产业",
+                    "data_sexchart":[
+                      {
+                        "name":"男",  
+                        "value":3
+                      },
+                      {
+                        "name":"女",
+                        "value":0
+                      }
+                    ],
+                    "data_pie":[
+                      { "value": 1, "name": "国有企业" },
+                      { "value": 1, "name": "民营企业" },
+                      { "value": 1, "name": "其它" }
+                    ],
+                    "data_map":[
+                      {"name": "重庆","value": 1},
+                      {"name": "广东","value": 1},
+                      {"name": "四川","value": 1}
+                    ],
+                    "data_wordCloud":[
+                      { "name": "恒大地产集团有限公司", "value": 1 },
+                      { "name": "重庆两江新区置业发展有限公司", "value": 1 },
+                      { "name": "中介", "value": 1 }
+                    ]
+                  },
+                  {
+                    "value": 1,
+                    "name": "公共管理、社会保障和社会组织",
+                    "data_sexchart":[
+                      {
+                        "name":"男",
+                        "value":1
+                      },
+                      {
+                        "name":"女",
+                        "value":0
+                      }
+                    ],
+                    "data_pie":[
+                      { "value": 1, "name": "其他事业单位" }
+                    ],
+                    "data_map":[
+                      {"name": "北京","value": 1}
+                     
+                    ],
+                    "data_wordCloud":[
+                      { "name": "国家物资储备局直属储备物资管理处", "value": 1}
+                
+                    ]
+                  },
+                  {
+                    
+                      "value": 1,
+                      "name": "建筑业",
+                      "data_sexchart":[
+                        {
+                          "name":"男",
+                          "value":1
+                        },
+                        {
+                          "name":"女",
+                          "value":0
+                        }
+                      ],
+                      "data_pie":[
+                        { "value": 1, "name": "国有企业" }
+                      ],
+                      "data_map":[
+                        {"name": "浙江","value": 1}
+                       
+                      ],
+                      "data_wordCloud":[
+                        { "name": "中建八局浙江建设有限公司", "value": 1 }
+                   
+                      ]
+                  },
+                  {
+                    "value": 2,
+                    "name": "居民服务、修理和其他服务业",
+            "data_sexchart": [
+                      {
+                        "name":"男",
+                        "value": 2
+                      },
+                      {
+                        "name":"女",
+                        "value": 0
+                      }
+                    ],
+            "data_pie": [
+                      {
+                        "value": 2,
+                        "name": "其他"
+                      }
+                    ],
+            "data_map": [
+                      {
+                        "name": "河南",
+                        "value": 1
+                      },
+                      {
+                        "name": "四川",
+                        "value": 1
+                      }
+                    ],
+            "data_wordCloud": [
+                      {
+                        "name": "汽车修理工",
+                        "value": 1
+                      },
+                      {
+                        "name": "计算机修理工",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 1,
+                    "name": "卫生和社会工作",
+                    "data_sexchart":[
+                      {
+                        "name":"男",
+                        "value":1
+                      },
+                      {
+                        "name":"女",
+                        "value":0
+                      }
+                    ],
+                    "data_pie":[
+                      {
+                        "name":"医疗卫生单位",
+                        "value":1
+                       }
+                    ],
+                    "data_map":[
+                    
+                       {
+                        "name":"陕西",
+                        "value":1
+                       }
+                         
+                    ],
+                    "data_wordCloud":[
+                      {
+                        "name":"渭南市临渭区龙背镇卫生院",
+                        "value":1
+                       }
+                       
+                    ]
+                  },
+                  {
+                    "value": 1,
+                    "name": "住宿和餐饮业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 0
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "name": "其他",
+                        "value": 1
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "四川省",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "个体餐饮服务员",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ],
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 13
+                  },
+                  {
+                    "name": "女",
+                    "value": 0
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "  name":"其他",
+                    "value":4
+                   },
+                   {
+                    "  name":"其他事业单位",
+                    "value":1
+                   },
+                   {
+                    "  name":"医疗卫生单位",
+                    "value":1
+                   },
+                   {
+                    "  name":"国有企业",
+                    "value":5
+                   },
+                   {
+                    "  name":"民营企业",
+                    "value":2
+                   }
+                ],
+                "data_map": [
+                  {
+                    "name":"北京",
+                    "value":1
+                   },
+                   {
+                    "name":"四川",
+                    "value":4
+                   },
+                   {
+                    "name":"山东",
+                    "value":1
+                   },
+                   {
+                    "name":"广东",
+                    "value":2
+                   },
+                   {
+                    "name":"河南",
+                    "value":1
+                   },
+                   {
+                    "name":"浙江",
+                    "value":1
+                   },
+                   {
+                    "name":"辽宁",
+                    "value":1
+                   },
+                   {
+                    "name":"重庆",
+                    "value":1
+                   },
+                   {
+                    "name":"陕西",
+                    "value":1
+                   }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name":"个体餐饮服务员",
+                    "value":1
+                   },
+                   {
+                    "name":"中介",
+                    "value":1
+                   },
+                   {
+                    "name":"浙江中建八局",
+                    "value":1
+                   },
+                   {
+                    "name":"国家物资储备局直属储备物资管理处",
+                    "value":1
+                   },
+                   {
+                    "name":"资阳国家电网",
+                    "value":1
+                   },
+                   {
+                    "name":"山东水发天源水务集团",
+                    "value":1
+                   },
+                   {
+                    "name":"恒大地产",
+                    "value":1
+                   },
+                   {
+                    "name":"汽车修理工",
+                    "value":1
+                   },
+                   {
+                    "name":"深圳市深水宝安水务集团",
+                    "value":1
+                   },
+                   {
+                    "name":"渭南市临渭区龙背镇卫生院",
+                    "value":1
+                   },
+                   {
+                    "name":"盘锦鹏瀚石油化工科技",
+                    "value":1
+                   },
+                   {
+                    "name":"计算机修理工",
+                    "value":1
+                   },
+                   {
+                    "name":"重庆两江新区置业发展",
+                    "value":1
+                   }
+                ]
+              },
+              {
+                "value": 5,
+                "name": "交通运输、仓储和邮政业",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":3
+                  },
+                  {
+                    "name":"女",
+                    "value":2
+                  }
+                ],
+                "data_pie":[
+                  { "value": 3, "name": "国有企业" },
+                  { "value": 1, "name": "民营企业" },
+                  { "value": 1, "name": "三资企业" }
+                ],
+                "data_map":[
+                  {"name": "重庆","value": 1},
+                  {"name": "广东","value": 2},
+                  {"name": "四川","value": 2}
+                ],
+                "data_wordCloud":[
+                  { "name": "重庆长安民生物流股份有限公司", "value": 1 },
+                  { "name": "顺丰科技有限公司", "value": 1 },
+                  { "name": "成都双流国际机场股份有限公司", "value": 1 },
+                  { "name": "中国南方航空股份有限公司", "value": 1 },
+                  { "name": "四川航空股份有限公司", "value": 1 }
+                ]
+              },
+              {
+                "value": 15,
+                "name": "教育",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 9
+                  },
+                  {
+                    "name": "女",
+                    "value": 6
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "value": 6,
+                    "name": "民营企业"
+                  },
+                  {
+                    "value": 8,
+                    "name": "中初教育单位"
+                  },
+                  {
+                    "value": 1,
+                    "name": "其它"
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "河北",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京",
+                    "value": 9
+                  },
+                  {
+                    "name": "四川",
+                    "value": 5
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "北京尚德在线教育科技有限公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京市第十一中学",
+                    "value": 8
+                  },
+                  {
+                    "name": "成都后飞教育咨询有限公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都以利沙教育咨询有限公司",
+                    "value": 4
+                  },
+                  {
+                    "name": "高考升学中介服务",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 16,
+                "name": "科学研究和技术服务业",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":15
+                  },
+                  {
+                    "name":"女",
+                    "value":1
+                  }
+                ],
+                "data_pie":[
+                  {
+                    "name":"其他",
+                    "value":3
+                   },
+                   {
+                    "name":"国有企业",
+                    "value":2
+                   },
+                   {
+                    "name":"民营企业",
+                    "value":5
+                   },
+                   {
+                    "name":"科研设计单位",
+                    "value":2
+                   }
+                ],
+                "data_map":[
+                  {
+                    "name":"北京",
+                    "value":1
+                   },
+                   {
+                    "name":"四川",
+                    "value":6
+                   },
+                   {
+                    "name":"江苏",
+                    "value":1
+                   },
+                   {
+                    "name":"湖南",
+                    "value":3
+                   },
+                   {
+                    "name":"贵州",
+                    "value":1
+                   }
+                     
+                ],
+                "data_wordCloud":[
                     {
-                      "name":"男",
-                      "value":70
-                    },
-                    {
-                      "name":"女",
-                      "value":30
-                    }
-                  ],
-                  "data_pie":[
-                    { "value": 40, "name": "国有企业" },
-                    { "value": 50, "name": "民营企业" },
-                    { "value": 10, "name": "其它" }
-                  ],
-                  "data_map":[
-                    {"name": "北京","value": 30},
-                    {"name": "上海","value": 30},
-                    {"name": "广东","value": 20},
-                    {"name": "四川","value": 20}
-                  ],
-                  "data_wordCloud":[
-                    { "name": "字节跳动", "value": 30 },
-                    { "name": "腾讯", "value": 30 },
-                    { "name": "华为", "value": 20 },
-                    { "name": "小红书", "value": 10 },
-                    { "name": "996公司","value": 10}
-                  ]
-                },
-                {
-                  "value": 25,
-                  "name": "金融业",
-                  "data_sexchart":[
-                    {
-                      "name":"男",
-                      "value":15
-                    },
-                    {
-                      "name":"女",
-                      "value":10
-                    }
-                  ],
-                  "data_pie":[
-                    { "value": 10, "name": "国有企业" },
-                    { "value": 10, "name": "民营企业" },
-                    { "value": 5, "name": "其它" }
-                  ],
-                  "data_map":[
-                    {"name": "北京","value": 2},
-                    {"name": "上海","value": 8},
-                    {"name": "广东","value": 10},
-                    {"name": "四川","value": 5}
-                  ],
-                  "data_wordCloud":[
-                    { "name": "建设银行", "value": 20 },
-                    { "name": "工商银行", "value": 5 }
-                  ]
-                },
-                {
-                  "value": 9,
-                  "name": "制造业",
-                  "data_sexchart":[
-                    {
-                      "name":"男",
-                      "value":5
-                    },
-                    {
-                      "name":"女",
-                      "value":4
-                    }
-                  ],
-                  "data_pie":[
-                    { "value": 4, "name": "国有企业" },
-                    { "value": 4, "name": "民营企业" },
-                    { "value": 1, "name": "其它" }
-                  ],
-                  "data_map":[
-                    {"name": "北京","value": 2},
-                    {"name": "上海","value": 2},
-                    {"name": "广东","value": 2},
-                    {"name": "四川","value": 3}
-                  ],
-                  "data_wordCloud":[
-                    { "name": "黑心工厂1", "value": 5 },
-                    { "name": "黑心工厂2", "value": 4 }
-                  ]
-                },
-                {
-                  "value": 5,
-                  "name": "机关",
-                  "data_sexchart":[
-                    {
-                      "name":"男",
-                      "value":3
-                    },
-                    {
-                      "name":"女",
-                      "value":2
-                    }
-                  ],
-                  "data_pie":[
-                    { "value": 5, "name": "党政机关" }
-                  ],
-                  "data_map":[
-                    {"name": "北京","value": 0},
-                    {"name": "上海","value": 0},
-                    {"name": "广东","value": 2},
-                    {"name": "四川","value": 3}
-                  ],
-                  "data_wordCloud":[
-                    { "name": "北京市组织部", "value": 1 },
-                    { "name": "成都市组织部", "value": 4 }
-                  ]
-                },
-                {
-                  "value": 4,
-                  "name": "电热燃水生产和供应业",
-                  "data_sexchart":[
-                    {
-                      "name":"男",
-                      "value":3
-                    },
-                    {
-                      "name":"女",
+                      "name":"北京控制工程研究所",
                       "value":1
-                    }
-                  ],
-                  "data_pie":[
-                    { "value": 4, "name": "国有企业" }
-                  ],
-                  "data_map":[
-                    {"name": "北京","value": 1},
-                    {"name": "上海","value": 1},
-                    {"name": "广东","value": 1},
-                    {"name": "四川","value": 1}
-                  ],
-                  "data_wordCloud":[
-                    { "name": "中石油", "value": 1 },
-                    { "name": "中石化", "value": 3 }
-                  ]
-                },
-                {
-                  "value": 4,
-                  "name": "军队",
-                  "data_sexchart":[
-                    {
-                      "name":"男",
-                      "value":4
-                    },
-                    {
-                      "name":"女",
-                      "value":0
-                    }
-                  ],
-                  "data_pie":[
-                    { "value": 4, "name": "其它" }
-                  ],
-                  "data_map":[
-                    {"name": "北京","value": 0},
-                    {"name": "上海","value": 0},
-                    {"name": "广东","value": 2},
-                    {"name": "四川","value": 2}
-                  ],
-                  "data_wordCloud":[
-                    { "name": "解放台湾", "value": 4 }
-                  ]
-                },
-                {
-                  "value": 16,
-                  "name": "其它",
-                  "children":[
-                    {"value":10,
-                      "name":"打工",
-                      "data_sexchart":[
-                        {
-                          "name":"男",
-                          "value":5
-                        },
-                        {
-                          "name":"女",
-                          "value":5
-                        }
-                      ],
-                      "data_pie":[
-                        { "value": 3, "name": "国有企业" },
-                        { "value": 3, "name": "私有企业" },
-                        { "value": 4, "name": "其它" }
-                      ],
-                      "data_map":[
-                        {"name": "北京","value": 3},
-                        {"name": "上海","value": 3},
-                        {"name": "广东","value": 3},
-                        {"name": "四川","value": 1}
-                      ],
-                      "data_wordCloud":[
-                        { "name": "社畜厂", "value": 5 },
-                        { "name": "解放美国力量", "value": 5 }
-                      ]
-                    },
-                    {"value":6,
-                      "name":"打工",
-                      "data_sexchart":[
-                        {
-                          "name":"男",
-                          "value":3
-                        },
-                        {
-                          "name":"女",
-                          "value":3
-                        }
-                      ],
-                      "data_pie":[
-                        { "value": 1, "name": "国有企业" },
-                        { "value": 1, "name": "私有企业" },
-                        { "value": 4, "name": "其它" }
-                      ],
-                      "data_map":[
-                        {"name": "北京","value": 3},
-                        {"name": "上海","value": 3}
-                      ],
-                      "data_wordCloud":[
-                        { "name": "社畜厂", "value": 6 }
-                      ]
-                    }
-                  ],
-                  "data_sexchart":[
-                    {
-                      "name":"男",
-                      "value":10
-                    },
-                    {
-                      "name":"女",
-                      "value":6
-                    }
-                  ],
-                  "data_pie":[
-                    { "value": 6, "name": "国有企业" },
-                    { "value": 5, "name": "国有企业" },
-                    { "value": 5, "name": "其它" }
-                  ],
-                  "data_map":[
-                    {"name": "北京","value": 10},
-                    {"name": "上海","value": 2},
-                    {"name": "广东","value": 2},
-                    {"name": "四川","value": 1}
-                  ],
-                  "data_wordCloud":[
-                    { "name": "社畜厂", "value": 10 },
-                    { "name": "解放美国力量", "value": 10 }
-                  ]
-                }
-              ]
-            },
-            {
-              "name":"深造",
-              "value":250,
-              "r":255,
-              "data_sexchart":[
-                {
-                  "name":"男",
-                  "value":120
-                },
-                {
-                  "name":"女",
-                  "value":130
-                }
-              ],
-              "data_pie":[
-                { "value": 200, "name": "国内" },
-                { "value": 50, "name": "国外" }
-              ],
-              "data_map":[
-                {"name": "北京","value": 250},
-                {"name": "天津","value": 0},
-                {"name": "上海","value": 0},
-                {"name": "重庆","value": 0},
-                {"name": "河北","value": 0},
-                {"name": "河南","value": 0},
-                {"name": "云南","value": 0},
-                {"name": "辽宁","value": 0},
-                {"name": "黑龙江","value": 0},
-                {"name": "湖南","value": 0},
-                {"name": "安徽","value": 0},
-                {"name": "山东","value": 0},
-                {"name": "新疆","value": 0},
-                {"name": "江苏","value": 0},
-                {"name": "浙江","value": 0},
-                {"name": "江西","value": 0},
-                {"name": "湖北","value": 0},
-                {"name": "广西","value": 0},
-                {"name": "甘肃","value": 0},
-                {"name": "山西","value": 0},
-                {"name": "内蒙古","value": 0},
-                {"name": "陕西","value": 0},
-                {"name": "吉林","value": 0},
-                {"name": "福建","value": 0},
-                {"name": "贵州","value": 0},
-                {"name": "广东","value": 0},
-                {"name": "青海","value": 0},
-                {"name": "西藏","value": 0},
-                {"name": "四川","value": 0},
-                {"name": "宁夏","value": 0},
-                {"name": "海南","value": 0},
-                {"name": "台湾","value": 0},
-                {"name": "香港","value": 0},
-                {"name": "澳门","value": 0}
-              ],
-              "data_wordCloud":[
-                { "name": "四川大学", "value": 20 },
-                { "name": "电子科技大学", "value": 60 },
-                { "name": "重庆大学", "value": 34 },
-                { "name": "清华大学", "value": 4 },
-                { "name": "北京大学", "value": 27 },
-                { "name": "浙江大学", "value": 6 },
-                { "name": "复旦大学", "value": 19},
-                { "name": "上海交通大学", "value": 8 },
-                { "name": "天津大学", "value": 9 },
-                { "name": "中山大学", "value": 17 },
-                { "name": "华南理工大学", "value": 3 },
-                { "name": "南方科技大学", "value": 8 },
-                { "name": "北京邮电大学", "value": 7 },
-                { "name": "中国人民大学", "value": 6 },
-                { "name": "兰州大学", "value": 11 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
+                     },
+                     {
+                      "name":"华为技成都研究所",
+                      "value":5
+                     },
+                     {
+                      "name":"南京信息技术研究院",
+                      "value":1
+                     },
+                     {
+                      "name":"四川通信科研",
+                      "value":1
+                     },
+                     {
+                      "name":"国防科技大学计算机研究所银河技术服务部",
+                      "value":3
+                     },
+                     {
+                      "name":"贵州航天",
+                      "value":1
+                     }
+                ]
+              },
+              {
+                "value": 9,
+                "name": "科学研究和技术服务业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 8
+                  },
+                  {
+                    "name": "女",
+                    "value": 1
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "三资企业",
+                    "value": 1
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 8
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 4
+                  },
+                  {
+                    "name": "天津",
+                    "value": 1
+                  },
+                  {
+                    "name": "广东",
+                    "value": 2
+                  },
+                  {
+                    "name": "江苏",
+                    "value": 1
+                  },
+                  {
+                    "name": "陕西",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "四川中测微格科技",
+                    "value": 2
+                  },
+                  {
+                    "name": "天津市尚维家具",
+                    "value": 1
+                  },
+                  {
+                    "name": "徐州市博順钢铁贸易",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都微果快线",
+                    "value": 2
+                  },
+                  {
+                    "name": "TCL",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市迈特通信",
+                    "value": 1
+                  },
+                  {
+                    "name": "陕西省中衡肥业",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 5,
+                "name": "文化、体育和娱乐业",
+                "data_sexchart":[
+                  {
+                    "name":"男",
+                    "value":4
+                  },
+                  {
+                    "name":"女",
+                    "value":1
+                  }
+                ],
+                "data_pie":[
+                  {
+                    "name":"民营企业",
+                    "value":3
+                   },
+                   {
+                    "name":"其他",
+                    "value":2
+                   }
+                ],
+                "data_map":[
+                
+                   {
+                    "name":"四川",
+                    "value":2
+                   },
+                   {
+                    "name":"上海",
+                    "value":2
+                   },
+                   {
+                    "name":"湖南",
+                    "value":1
+                   }
+                   
+                     
+                ],
+                "data_wordCloud":[
+                  {
+                    "name":"上海景域文化传播股份有限公司",
+                    "value":2
+                   },
+                   {
+                    "name":"翻译工作者",
+                    "value":1
+                   },
+                   {
+                    "name":"自由撰稿人",
+                    "value":1
+                   },
+                   {
+                    "name":"乐帮排练室",
+                    "value":1
+                   }
+                   
+                ]
+              },
+              {
+                "value": 6,
+                "name": "租赁和商务服务业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 4
+                  },
+                  {
+                    "name": "女",
+                    "value": 2
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "国有企业",
+                    "value": 1
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 5
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 2
+                  },
+                  {
+                    "name": "山东",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江",
+                    "value": 2
+                  },
+                  {
+                    "name": "重庆",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "成都雅堂投资",
+                    "value": 2
+                  },
+                  {
+                    "name": "日照建科工程检测",
+                    "value": 1
+                  },
+                  {
+                    "name": "菜鸟",
+                    "value": 2
+                  },
+                  {
+                    "name": "重庆市水利投资",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 7,
+                "name": "待业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 4
+                  },
+                  {
+                    "name": "女",
+                    "value": 3
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "其他",
+                    "value": 5
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 5
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "待业",
+                    "value": 5
+                  },
+                  {
+                    "name": "拟参加公招考试",
+                    "value": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "深造",
+            "value": 135,
+            "r": 255,
+            "data_sexchart": [
+              {
+                "name": "男",
+                "value": 86
+              },
+              {
+                "name": "女",
+                "value": 49
+              }
+            ],
+            "data_pie": [
+              {
+                "value": 91,
+                "name": "国内"
+              },
+              {
+                "value": 44,
+                "name": "国外"
+              }
+            ],
+            "data_map": [
+              {
+                "name":"上海",
+                "value":7
+              },
+              {
+                "name":"北京",
+                "value":11
+              },
+              {
+                "name":"四川",
+                "value":47
+              },
+              {
+                "name":"安徽",
+                "value":5
+              },
+              {
+                "name":"江苏",
+                "value":3
+              },
+              {
+                "name":"浙江",
+                "value":2
+              },
+              {
+                "name":"湖北",
+                "value":6
+              },
+              {
+                "name":"湖南",
+                "value":6
+              }
+            ],
+            "data_wordCloud": [
+              {
+                "name":"上海交通大学",
+                "value":2
+              },
+              {
+                "name":"中国人民解放军国防科学技术大学",
+                "value":2
+              },
+              {
+                "name":"中国人民解放军国防科技大学",
+                "value":2
+              },
+              {
+                "name":"中国科学技术大学",
+                "value":4
+              },
+              {
+                "name":"中国科学院大学",
+                "value":2
+              },
+              {
+                "name":"中国科学院计算技术研究所",
+                "value":2
+              },
+              {
+                "name":"中国香港",
+                "value":3
+              },
+              {
+                "name":"中科院软件研究所",
+                "value":1
+              },
+              {
+                "name":"加拿大",
+                "value":4
+              },
+              {
+                "name":"北京大学",
+                "value":1
+              },
+              {
+                "name":"北京航空航天大学",
+                "value":3
+              },
+              {
+                "name":"北京邮电大学",
+                "value":2
+              },
+              {
+                "name":"华东师范大学",
+                "value":1
+              },
+              {
+                "name":"华中科技大学",
+                "value":4
+              },
+              {
+                "name":"南京大学普惠三农金融科技创新研究中心",
+                "value":2
+              },
+              {
+                "name":"四川大学",
+                "value":47
+              },
+              {
+                "name":"国防科技大学",
+                "value":2
+              },
+              {
+                "name":"复旦大学",
+                "value":4
+              },
+              {
+                "name":"德国",
+                "value":1
+              },
+              {
+                "name":"拟出国出境",
+                "value":1
+              },
+              {
+                "name":"拟升学",
+                "value":4
+              },
+              {
+                "name":"新加坡",
+                "value":3
+              },
+              {
+                "name":"日本",
+                "value":5
+              },
+              {
+                "name":"武汉大学",
+                "value":2
+              },
+              {
+                "name":"江南大学",
+                "value":1
+              },
+              {
+                "name":"浙江大学",
+                "value":2
+              },
+              {
+                "name":"澳大利亚",
+                "value":5
+              },
+              {
+                "name":"爱尔兰",
+                "value":1
+              },
+              {
+                "name":"瑞士",
+                "value":1
+              },
+              {
+                "name":"美国",
+                "value":14
+              },
+              {
+                "name":"英国",
+                "value":6
+              },
+              {
+                "name":"解放军电子工程学院",
+                "value":1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year":"2018",
+    "value":432,
+    "data_sexchart":[
+      {
+        "name":"男",
+        "value":317
+      },
+      {
+        "name":"女",
+        "value":115
+      }
+    ],
+    "data_pie":[
+      {
+        "name":"国内深造",
+        "value":125
+      },
+      {
+        "name":"国外深造",
+        "value":61
+      },
+      {
+        "name":"三资企业",
+        "value":29
+       },
+       {
+        "name":"中初教育单位",
+        "value":4
+       },
+       {
+        "name":"其他",
+        "value":33
+       },
+       {
+        "name":"其他事业单位",
+        "value":3
+       },
+       {
+        "name":"国有企业",
+        "value":49
+       },
+       {
+        "name":"机关",
+        "value":2
+       },
+       {
+        "name":"民营企业",
+        "value":107
+       },
+       {
+        "name":"科研设计单位",
+        "value":3
+       },
+       {
+        "name":"部队",
+        "value":16
+       }
+    ],
+    "data_map":[
+      {
+        "name":"上海",
+        "value":15
+       },
+       {
+        "name":"云南",
+        "value":2
+       },
+       {
+        "name":"内蒙古",
+        "value":1
+       },
+       {
+        "name":"北京",
+        "value":69
+       },
+       {
+        "name":"四川",
+        "value":142
+       },
+       {
+        "name":"天津",
+        "value":3
+       },
+       {
+        "name":"安徽",
+        "value":3
+       },
+       {
+        "name":"山东",
+        "value":3
+       },
+       {
+        "name":"山西",
+        "value":1
+       },
+       {
+        "name":"广东",
+        "value":38
+       },
+       {
+        "name":"广西",
+        "value":4
+       },
+       {
+        "name":"新疆",
+        "value":3
+       },
+       {
+        "name":"江苏",
+        "value":7
+       },
+       {
+        "name":"河北",
+        "value":1
+       },
+       {
+        "name":"河南",
+        "value":3
+       },
+       {
+        "name":"浙江",
+        "value":22
+       },
+       {
+        "name":"湖北",
+        "value":5
+       },
+       {
+        "name":"湖南",
+        "value":12
+       },
+       {
+        "name":"福建",
+        "value":6
+       },
+       {
+        "name":"贵州",
+        "value":1
+       },
+       {
+        "name":"辽宁",
+        "value":1
+       },
+       {
+        "name":"重庆",
+        "value":6
+       },
+       {
+        "name":"陕西",
+        "value":2
+       },
+       {
+        "name":"青海",
+        "value":1
+       },
+       {
+        "name":"黑龙江",
+        "value":1
+       }
+    ],
+    "data_wordCloud":[
+      {
+        "name":"中国农业银行四川分行",
+        "value":3
+       },
+       {
+        "name":"北京三快在线科技",
+        "value":3
+       },
+       {
+        "name":"广汽埃安新能源汽车",
+        "value":3
+       },
+       {
+        "name":"华中科技大学",
+        "value":3
+       },
+       {
+        "name":"拟出国出境",
+        "value":4
+       },
+       {
+        "name":"TP-LINK",
+        "value":4
+       },
+       {
+        "name":"太极计算机",
+        "value":4
+       },
+       {
+        "name":"恒大集团",
+        "value":4
+       },
+       {
+        "name":"浙江大学",
+        "value":4
+       },
+       {
+        "name":"北京第十一中学",
+        "value":4
+       },
+       {
+        "name":"世纪龙信息网络",
+        "value":4
+       },
+       {
+        "name":"浙江巨化信息技术",
+        "value":4
+       },
+       {
+        "name":"上海交通大学",
+        "value":5
+       },
+       {
+        "name":"中国香港",
+        "value":5
+       },
+       {
+        "name":"自由撰稿人",
+        "value":5
+       },
+       {
+        "name":"中介服务工作者",
+        "value":5
+       },
+       {
+        "name":"中国科学院大学",
+        "value":5
+       },
+       {
+        "name":"清华大学",
+        "value":5
+       },
+       {
+        "name":"北京大学",
+        "value":5
+       },
+       {
+        "name":"杭州睿琪软件",
+        "value":6
+       },
+       {
+        "name":"求职中",
+        "value":7
+       },
+       {
+        "name":"日本",
+        "value":7
+       },
+       {
+        "name":"英国",
+        "value":8
+       },
+       {
+        "name":"中国人民解放军国防科技大学",
+        "value":9
+       },
+       {
+        "name":"拟升学",
+        "value":9
+       },
+       {
+        "name":"用友网络科技",
+        "value":10
+       },
+       {
+        "name":"华为成都研究所",
+        "value":11
+       },
+       {
+        "name":"澳大利亚",
+        "value":11
+       },
+       {
+        "name":"中国人民解放军部队",
+        "value":16
+       },
+       {
+        "name":"美国",
+        "value":22
+       },
+       {
+        "name":"四川大学",
+        "value":60
+       }
+    ],
+    "data_sunburst":[
+      {
+        "name":"全部",
+        "value":432,
+        "itemStyle": {
+          "borderColor": "#00f2f1",
+          "borderWidth": 0
+        },
+        "children":[
+          {
+            "name": "就业",
+            "value": 246,
+            "data_sexchart": [
+              {
+                "name": "男",
+                "value": 192
+              },
+              {
+                "name": "女",
+                "value": 54
+              }
+            ],
+            "data_pie": [
+              {
+                "name": "三资企业",
+                "value": 29
+              },
+              {
+                "name": "中初教育单位",
+                "value": 4
+              },
+              {
+                "name": "其他",
+                "value": 33
+              },
+              {
+                "name": "其他事业单位",
+                "value": 3
+              },
+              {
+                "name": "国有企业",
+                "value": 49
+              },
+              {
+                "name": "机关",
+                "value": 2
+              },
+              {
+                "name": "民营企业",
+                "value": 107
+              },
+              {
+                "name": "科研设计单位",
+                "value": 3
+              },
+              {
+                "name": "部队",
+                "value": 16
+              }
+            ],
+            "data_map": [
+              {
+                "name": "上海",
+                "value": 10
+              },
+              {
+                "name": "云南",
+                "value": 2
+              },
+              {
+                "name": "内蒙古",
+                "value": 1
+              },
+              {
+                "name": "北京",
+                "value": 50
+              },
+              {
+                "name": "四川",
+                "value": 81
+              },
+              {
+                "name": "天津",
+                "value": 2
+              },
+              {
+                "name": "安徽",
+                "value": 1
+              },
+              {
+                "name": "山东",
+                "value": 2
+              },
+              {
+                "name": "山西",
+                "value": 1
+              },
+              {
+                "name": "广东",
+                "value": 33
+              },
+              {
+                "name": "广西",
+                "value": 4
+              },
+              {
+                "name": "新疆",
+                "value": 3
+              },
+              {
+                "name": "江苏",
+                "value": 5
+              },
+              {
+                "name": "河北",
+                "value": 1
+              },
+              {
+                "name": "河南",
+                "value": 1
+              },
+              {
+                "name": "浙江",
+                "value": 18
+              },
+              {
+                "name": "湖北",
+                "value": 2
+              },
+              {
+                "name": "湖南",
+                "value": 3
+              },
+              {
+                "name": "福建",
+                "value": 5
+              },
+              {
+                "name": "贵州",
+                "value": 1
+              },
+              {
+                "name": "辽宁",
+                "value": 1
+              },
+              {
+                "name": "重庆",
+                "value": 6
+              },
+              {
+                "name": "陕西",
+                "value": 2
+              },
+              {
+                "name": "青海",
+                "value": 1
+              }
+            ],
+            "data_wordCloud": [
+              {
+                "name": "软通动力信息技术",
+                "value": 2
+              },
+              {
+                "name": "深圳腾讯",
+                "value": 2
+              },
+              {
+                "name": "福建星网锐捷通讯",
+                "value": 2
+              },
+              {
+                "name": "贝壳",
+                "value": 2
+              },
+              {
+                "name": "恒大互联网",
+                "value": 2
+              },
+              {
+                "name": "华为",
+                "value": 2
+              },
+              {
+                "name": "四川甜心橙子教育咨询",
+                "value": 2
+              },
+              {
+                "name": "四川苏宁云商销售",
+                "value": 2
+              },
+              {
+                "name": "北京科蓝软件",
+                "value": 2
+              },
+              {
+                "name": "国防科技大学计算机研究所银河技术服务部",
+                "value": 2
+              },
+              {
+                "name": "四川斐讯信息技术",
+                "value": 2
+              },
+              {
+                "name": "四川思特奇信息技术",
+                "value": 2
+              },
+              {
+                "name": "北京搜房网络技术",
+                "value": 2
+              },
+              {
+                "name": "北京字节跳动",
+                "value": 2
+              },
+              {
+                "name": "太平金融科技",
+                "value": 2
+              },
+              {
+                "name": "北京十一贝科技",
+                "value": 2
+              },
+              {
+                "name": "暂不就业",
+                "value": 2
+              },
+              {
+                "name": "中国农业银行四川分行",
+                "value": 3
+              },
+              {
+                "name": "北京三快在线科技",
+                "value": 3
+              },
+              {
+                "name": "广汽埃安新能源汽车",
+                "value": 3
+              },
+              {
+                "name": "恒大集团",
+                "value": 4
+              },
+              {
+                "name": "太极计算机",
+                "value": 4
+              },
+              {
+                "name": "浙江巨化信息技术",
+                "value": 4
+              },
+              {
+                "name": "北京第十一中学",
+                "value": 4
+              },
+              {
+                "name": "TP-LINK",
+                "value": 4
+              },
+              {
+                "name": "世纪龙信息网络",
+                "value": 4
+              },
+              {
+                "name": "自由撰稿人",
+                "value": 5
+              },
+              {
+                "name": "中介服务工作者",
+                "value": 5
+              },
+              {
+                "name": "杭州睿琪软件",
+                "value": 6
+              },
+              {
+                "name": "求职中",
+                "value": 7
+              },
+              {
+                "name": "用友网络科技",
+                "value": 10
+              },
+              {
+                "name": "华为成都研究所",
+                "value": 11
+              },
+              {
+                "name": "中国人民解放军部队",
+                "value": 16
+              }
+            ],
+            "children": [
+              {
+                "value": 128,
+                "name": "IT",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 103
+                  },
+                  {
+                    "name": "女",
+                    "value": 25
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "三资企业",
+                    "value": 25
+                  },
+                  {
+                    "name": "其他",
+                    "value": 4
+                  },
+                  {
+                    "name": "国有企业",
+                    "value": 26
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 73
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "上海",
+                    "value": 8
+                  },
+                  {
+                    "name": "北京",
+                    "value": 44
+                  },
+                  {
+                    "name": "四川",
+                    "value": 24
+                  },
+                  {
+                    "name": "天津",
+                    "value": 2
+                  },
+                  {
+                    "name": "山东",
+                    "value": 2
+                  },
+                  {
+                    "name": "广东",
+                    "value": 21
+                  },
+                  {
+                    "name": "新疆",
+                    "value": 1
+                  },
+                  {
+                    "name": "江苏",
+                    "value": 2
+                  },
+                  {
+                    "name": "浙江",
+                    "value": 15
+                  },
+                  {
+                    "name": "湖南",
+                    "value": 1
+                  },
+                  {
+                    "name": "福建",
+                    "value": 4
+                  },
+                  {
+                    "name": "贵州",
+                    "value": 1
+                  },
+                  {
+                    "name": "辽宁",
+                    "value": 1
+                  },
+                  {
+                    "name": "重庆",
+                    "value": 2
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "万达信息成都分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "万达信息贵州分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "上海华讯网络系统有",
+                    "value": 1
+                  },
+                  {
+                    "name": "上海沐瞳科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "上海浪擎信息科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "上海途虎信息技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "世纪龙信息网络",
+                    "value": 4
+                  },
+                  {
+                    "name": "东方电子股",
+                    "value": 1
+                  },
+                  {
+                    "name": "东软集团",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国联合网络通信乌鲁木齐分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国联合网络通信广州分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "中电九天智能科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "九恒星成都信息技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "互联网代做",
+                    "value": 1
+                  },
+                  {
+                    "name": "互诚信息技术（上海）",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京三快在线科技",
+                    "value": 3
+                  },
+                  {
+                    "name": "北京京东尚科信息技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京人大金仓信息技术股份",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京十一贝科技",
+                    "value": 2
+                  },
+                  {
+                    "name": "北京华宇信息技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京华宇元典信息服务",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京启明星辰信息安全技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京奇艺世纪科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京字节跳动",
+                    "value": 2
+                  },
+                  {
+                    "name": "北京开科唯识技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京感易智能科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京搜房网络技术",
+                    "value": 2
+                  },
+                  {
+                    "name": "北京旷视科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京科蓝软件系统",
+                    "value": 2
+                  },
+                  {
+                    "name": "北京趣拿软件科技有",
+                    "value": 1
+                  },
+                  {
+                    "name": "金山",
+                    "value": 1
+                  },
+                  {
+                    "name": "华为",
+                    "value": 2
+                  },
+                  {
+                    "name": "步步高",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川思特奇信息",
+                    "value": 2
+                  },
+                  {
+                    "name": "四川斐讯信息",
+                    "value": 2
+                  },
+                  {
+                    "name": "四川虹信软件",
+                    "value": 1
+                  },
+                  {
+                    "name": "迅游",
+                    "value": 1
+                  },
+                  {
+                    "name": "长虹",
+                    "value": 1
+                  },
+                  {
+                    "name": "太平金融科技",
+                    "value": 2
+                  },
+                  {
+                    "name": "太极计算机",
+                    "value": 4
+                  },
+                  {
+                    "name": "客如云（成都）科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "富智康（南京）通讯",
+                    "value": 1
+                  },
+                  {
+                    "name": "平安科技(深圳)成都分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "广州博冠信息科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "恒大互联网",
+                    "value": 2
+                  },
+                  {
+                    "name": "成都万华镜科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都华大九天科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都博智维讯信息技术股份",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都启明星辰信息安全技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都尼毕鲁科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都明源拓展软件",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都精灵云",
+                    "value": 1
+                  },
+                  {
+                    "name": "易联众信息技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "TP-LINK",
+                    "value": 4
+                  },
+                  {
+                    "name": "杭州东信北邮信息",
+                    "value": 1
+                  },
+                  {
+                    "name": "杭州时趣信息",
+                    "value": 1
+                  },
+                  {
+                    "name": "杭州朗和科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "杭州核新软件技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "杭州睿琪软件",
+                    "value": 6
+                  },
+                  {
+                    "name": "济南科明数码技术",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江仟和网络科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "天猫",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江巨化信息技术",
+                    "value": 4
+                  },
+                  {
+                    "name": "深信服科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市华云中盛科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市恒腾网络",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳市赢时胜信息",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳鼎信通达股份",
+                    "value": 1
+                  },
+                  {
+                    "name": "魅族",
+                    "value": 1
+                  },
+                  {
+                    "name": "用友网络科技",
+                    "value": 10
+                  },
+                  {
+                    "name": "百度",
+                    "value": 1
+                  },
+                  {
+                    "name": "盛庞卡信息技术（上海）",
+                    "value": 1
+                  },
+                  {
+                    "name": "睿至科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "福建星网锐捷通讯",
+                    "value": 2
+                  },
+                  {
+                    "name": "程序员",
+                    "value": 1
+                  },
+                  {
+                    "name": "竞技世界（北京）",
+                    "value": 1
+                  },
+                  {
+                    "name": "网易",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳腾讯",
+                    "value": 2
+                  },
+                  {
+                    "name": "自由程序员",
+                    "value": 1
+                  },
+                  {
+                    "name": "苏州叠纸网络科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "贝壳",
+                    "value": 2
+                  },
+                  {
+                    "name": "软件开发者",
+                    "value": 1
+                  },
+                  {
+                    "name": "软通动力信息技术",
+                    "value": 2
+                  },
+                  {
+                    "name": "重庆信科通信工程",
+                    "value": 1
+                  },
+                  {
+                    "name": "锐捷网络股份",
+                    "value": 1
+                  },
+                  {
+                    "name": "锤子软件(北京)",
+                    "value": 1
+                  },
+                  {
+                    "name": "长沙麦粒软件",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 13,
+                "name": "金融业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 4
+                  },
+                  {
+                    "name": "女",
+                    "value": 9
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "国有企业",
+                    "value": 9
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 4
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "上海",
+                    "value": 1
+                  },
+                  {
+                    "name": "北京",
+                    "value": 2
+                  },
+                  {
+                    "name": "四川",
+                    "value": 5
+                  },
+                  {
+                    "name": "广东",
+                    "value": 1
+                  },
+                  {
+                    "name": "新疆",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江",
+                    "value": 1
+                  },
+                  {
+                    "name": "福建",
+                    "value": 1
+                  },
+                  {
+                    "name": "重庆",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "上海银行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国农业银行四川分行",
+                    "value": 3
+                  },
+                  {
+                    "name": "中国工商银行新疆分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国工商银行重庆分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国民生银行信用卡中心",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国邮政储蓄银行杭州市分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川天府银行",
+                    "value": 1
+                  },
+                  {
+                    "name": "平安银行北京分行",
+                    "value": 1
+                  },
+                  {
+                    "name": "浦发信用卡中心福州分部",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳农村商业银行",
+                    "value": 1
+                  },
+                  {
+                    "name": "深圳利信快捷金融服务",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 14,
+                "name": "教育",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 10
+                  },
+                  {
+                    "name": "女",
+                    "value": 4
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "中初教育单位",
+                    "value": 4
+                  },
+                  {
+                    "name": "其他",
+                    "value": 3
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 7
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "北京",
+                    "value": 4
+                  },
+                  {
+                    "name": "四川",
+                    "value": 9
+                  },
+                  {
+                    "name": "安徽",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "北京第十一中学",
+                    "value": 4
+                  },
+                  {
+                    "name": "四川甜心橙子教育咨询",
+                    "value": 2
+                  },
+                  {
+                    "name": "家教",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都友培教育咨询",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都地心力教育咨询",
+                    "value": 1
+                  },
+                  {
+                    "name": "学而思",
+                    "value": 1
+                  },
+                  {
+                    "name": "新东方",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都水木三一教育科技有限公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "池州市星路径课外培训学校",
+                    "value": 1
+                  },
+                  {
+                    "name": "留学中介",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 16,
+                "name": "军队",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 16
+                  },
+                  {
+                    "name": "女",
+                    "value": 0
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "value": 16,
+                    "name": "军队"
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 16
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "中国人民解放军部队",
+                    "value": 16
+                  }
+                ]
+              },
+              {
+                "value": 18,
+                "name": "科学研究和技术服务业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 14
+                  },
+                  {
+                    "name": "女",
+                    "value": 4
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "国有企业",
+                    "value": 3
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 11
+                  },
+                  {
+                    "name": "科研设计单位",
+                    "value": 3
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 14
+                  },
+                  {
+                    "name": "湖南",
+                    "value": 2
+                  },
+                  {
+                    "name": "陕西",
+                    "value": 1
+                  },
+                  {
+                    "name": "河南",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "中航九院",
+                    "value": 1
+                  },
+                  {
+                    "name": "华为成都研究所",
+                    "value": 11
+                  },
+                  {
+                    "name": "国防科技大学计算机研究所银河技术服务部",
+                    "value": 2
+                  },
+                  {
+                    "name": "成都中电熊猫显示科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "成都校精灵科技",
+                    "value": 1
+                  },
+                  {
+                    "name": "河南心连心化学工业集团",
+                    "value": 1
+                  },
+                  {
+                    "name": "电信科学技术第五研究所",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 7,
+                "name": "批发和零售业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 7
+                  },
+                  {
+                    "name": "女",
+                    "value": 0
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "三资企业",
+                    "value": 1
+                  },
+                  {
+                    "name": "其他",
+                    "value": 2
+                  },
+                  {
+                    "name": "国有企业",
+                    "value": 2
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 2
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "云南",
+                    "value": 2
+                  },
+                  {
+                    "name": "四川",
+                    "value": 3
+                  },
+                  {
+                    "name": "江苏",
+                    "value": 1
+                  },
+                  {
+                    "name": "重庆",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "云南昆船电子设备",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川苏宁云商销售",
+                    "value": 2
+                  },
+                  {
+                    "name": "戴尔（成都）",
+                    "value": 1
+                  },
+                  {
+                    "name": "淘宝卖家",
+                    "value": 1
+                  },
+                  {
+                    "name": "淮安佰禧商贸",
+                    "value": 1
+                  },
+                  {
+                    "name": "红塔烟草集团",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 20,
+                "name": "其它",
+                "children": [
+                  {
+                    "value": 2,
+                    "name": "电热燃水生产和供应业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 1
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 1,
+                        "name": "国有企业"
+                      },
+                      {
+                        "value": 3,
+                        "name": "三资企业"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "江苏",
+                        "value": 1
+                      },
+                      {
+                        "name": "四川",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "四川华能涪江水电有限责任公司",
+                        "value": 1
+                      },
+                      {
+                        "name": "江苏常熟发电有限公司",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 2,
+                    "name": "公共管理、社会保障和社会组织",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 1
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 2,
+                        "name": "其他事业单位"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "河北",
+                        "value": 1
+                      },
+                      {
+                        "name": "广西",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "中国民用航空华北地区空中交通管理局河北分局",
+                        "value": 1
+                      },
+                      {
+                        "name": "中国民用航空中南地区空中交通管理局广西分局",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 2,
+                    "name": "机关",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 1
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 2,
+                        "name": "机关"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "陕西",
+                        "value": 1
+                      },
+                      {
+                        "name": "广西",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "中共陕西委组织部",
+                        "value": 1
+                      },
+                      {
+                        "name": "中国共产党广西委员会组织部",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 2,
+                    "name": "建筑业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 2
+                      },
+                      {
+                        "name": "女",
+                        "value": 0
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 2,
+                        "name": "国有企业"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "四川",
+                        "value": 1
+                      },
+                      {
+                        "name": "湖北",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "中建三局成都分公司",
+                        "value": 1
+                      },
+                      {
+                        "name": "中建三局第一建设工程",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 1,
+                    "name": "其他",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 0
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 2,
+                        "name": "其他事业单位"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "四川",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "大学生志愿服务西部计划",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 2,
+                    "name": "卫生和社会工作",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 1
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 1,
+                        "name": "国有企业"
+                      },
+                      {
+                        "value": 1,
+                        "name": "民营企业"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "广东",
+                        "value": 1
+                      },
+                      {
+                        "name": "重庆",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "广州南方人才资源租赁中心",
+                        "value": 1
+                      },
+                      {
+                        "name": "立信会计师事务所（特殊普通合伙）重庆分所",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 6,
+                    "name": "制造业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 3
+                      },
+                      {
+                        "name": "女",
+                        "value": 3
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "name": "三资企业",
+                        "value": 1
+                      },
+                      {
+                        "name": "国有企业",
+                        "value": 4
+                      },
+                      {
+                        "name": "民营企业",
+                        "value": 1
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "四川",
+                        "value": 1
+                      },
+                      {
+                        "name": "广东",
+                        "value": 4
+                      },
+                      {
+                        "name": "广西",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "南宁富桂精密工业",
+                        "value": 1
+                      },
+                      {
+                        "name": "美的",
+                        "value": 1
+                      },
+                      {
+                        "name": "广汽埃安新能源汽车",
+                        "value": 3
+                      },
+                      {
+                        "name": "成都飞机工业集团",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 1,
+                    "name": "住宿和餐饮业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 0
+                      },
+                      {
+                        "name": "女",
+                        "value": 1
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 1,
+                        "name": "三资企业"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "上海",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "王品（中国）餐饮有限公司",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "value": 2,
+                    "name": "租赁和商务服务业",
+                    "data_sexchart": [
+                      {
+                        "name": "男",
+                        "value": 1
+                      },
+                      {
+                        "name": "女",
+                        "value": 1
+                      }
+                    ],
+                    "data_pie": [
+                      {
+                        "value": 1,
+                        "name": "民营企业"
+                      },
+                      {
+                        "value": 1,
+                        "name": "国有企业"
+                      }
+                    ],
+                    "data_map": [
+                      {
+                        "name": "浙江",
+                        "value": 1
+                      },
+                      {
+                        "name": "重庆",
+                        "value": 1
+                      }
+                    ],
+                    "data_wordCloud": [
+                      {
+                        "name": "浙江菜鸟供应链管理有限公司",
+                        "value": 1
+                      },
+                      {
+                        "name": "长安汽车金融有限公司",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ],
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 10
+                  },
+                  {
+                    "name": "女",
+                    "value": 10
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "三资企业",
+                    "value": 3
+                  },
+                  {
+                    "name": "其他事业单位",
+                    "value": 3
+                  },
+                  {
+                    "name": "国有企业",
+                    "value": 9
+                  },
+                  {
+                    "name": "机关",
+                    "value": 2
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 3
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "上海",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川",
+                    "value": 4
+                  },
+                  {
+                    "name": "广东",
+                    "value": 5
+                  },
+                  {
+                    "name": "广西",
+                    "value": 3
+                  },
+                  {
+                    "name": "江苏",
+                    "value": 1
+                  },
+                  {
+                    "name": "河北",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江",
+                    "value": 1
+                  },
+                  {
+                    "name": "湖北",
+                    "value": 1
+                  },
+                  {
+                    "name": "重庆",
+                    "value": 2
+                  },
+                  {
+                    "name": "陕西",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "中共陕西委组织部",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国共产党广西委员会组织部",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国民用航空中南地区空中交通管理局广西分局",
+                    "value": 1
+                  },
+                  {
+                    "name": "中国民用航空华北地区空中交通管理局河北分局",
+                    "value": 1
+                  },
+                  {
+                    "name": "中建三局第一建设工程",
+                    "value": 1
+                  },
+                  {
+                    "name": "中建三局集团成都分公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "南宁富桂精密工业司",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川华能涪江水电",
+                    "value": 1
+                  },
+                  {
+                    "name": "大学生志愿服务西部计划",
+                    "value": 1
+                  },
+                  {
+                    "name": "美的",
+                    "value": 1
+                  },
+                  {
+                    "name": "广州南方人才资源租赁中心",
+                    "value": 1
+                  },
+                  {
+                    "name": "广汽埃安新能源汽车",
+                    "value": 3
+                  },
+                  {
+                    "name": "成都飞机工业集团",
+                    "value": 1
+                  },
+                  {
+                    "name": "江苏常熟发电",
+                    "value": 1
+                  },
+                  {
+                    "name": "菜鸟",
+                    "value": 1
+                  },
+                  {
+                    "name": "王品（中国）餐饮",
+                    "value": 1
+                  },
+                  {
+                    "name": "立信会计师事务所（特殊普通合伙）重庆分所",
+                    "value": 1
+                  },
+                  {
+                    "name": "长安汽车金融",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 10,
+                "name": "待业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 9
+                  },
+                  {
+                    "name": "女",
+                    "value": 1
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "其他",
+                    "value": 10
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 10
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "拟参加公招考试",
+                    "value": 1
+                  },
+                  {
+                    "name": "暂不就业",
+                    "value": 2
+                  },
+                  {
+                    "name": "求职中",
+                    "value": 7
+                  }
+                ]
+              },
+              {
+                "value": 11,
+                "name": "房地产业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 11
+                  },
+                  {
+                    "name": "女",
+                    "value": 0
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "其他",
+                    "value": 6
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 5
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 3
+                  },
+                  {
+                    "name": "山西",
+                    "value": 1
+                  },
+                  {
+                    "name": "广东",
+                    "value": 6
+                  },
+                  {
+                    "name": "江苏",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "中介服务工作者",
+                    "value": 6
+                  },
+                  {
+                    "name": "恒大海花岛",
+                    "value": 1
+                  },
+                  {
+                    "name": "恒大集团",
+                    "value": 4
+                  }
+                ]
+              },
+              {
+                "value": 9,
+                "name": "文化、体育和娱乐业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 8
+                  },
+                  {
+                    "name": "女",
+                    "value": 1
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "其他",
+                    "value": 8
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 1
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "内蒙古",
+                    "value": 1
+                  },
+                  {
+                    "name": "四川",
+                    "value": 3
+                  },
+                  {
+                    "name": "广西",
+                    "value": 1
+                  },
+                  {
+                    "name": "新疆",
+                    "value": 1
+                  },
+                  {
+                    "name": "浙江",
+                    "value": 1
+                  },
+                  {
+                    "name": "湖北",
+                    "value": 1
+                  },
+                  {
+                    "name": "青海",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "网络小说作者",
+                    "value": 1
+                  },
+                  {
+                    "name": "翻译工作者",
+                    "value": 1
+                  },
+                  {
+                    "name": "自由撰稿人",
+                    "value": 5
+                  },
+                  {
+                    "name": "青海魅瑟文化传播有限公司",
+                    "value": 1
+                  },
+                  {
+                    "name": "音乐艺术工作者",
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          },
+      {
+        "name": "深造",
+        "value": 186,
+        "r": 255,
+        "data_sexchart": [
+          {
+            "name": "男",
+            "value": 125
+          },
+          {
+            "name": "女",
+            "value": 61
+          }
+        ],
+        "data_pie": [
+          {
+            "value": 145,
+            "name": "国内"
+          },
+          {
+            "value": 41,
+            "name": "国外"
+          }
+        ],
+        "data_map": [
+          {
+            "name": "上海",
+            "value": 3
+          },
+          {
+            "name": "北京",
+            "value": 10
+          },
+          {
+            "name": "四川",
+            "value": 43
+          },
+          {
+            "name": "天津",
+            "value": 1
+          },
+          {
+            "name": "安徽",
+            "value": 2
+          },
+          {
+            "name": "山东",
+            "value": 1
+          },
+          {
+            "name": "广东",
+            "value": 3
+          },
+          {
+            "name": "江苏",
+            "value": 2
+          },
+          {
+            "name": "河南",
+            "value": 1
+          },
+          {
+            "name": "浙江",
+            "value": 3
+          },
+          {
+            "name": "湖南",
+            "value": 8
+          },
+          {
+            "name": "福建",
+            "value": 1
+          }
+        ],
+        "data_wordCloud": [
+          {
+            "name": "上海交通大学",
+            "value": 3
+          },
+          {
+            "name": "中国人民解放军国防科技大学",
+            "value": 8
+          },
+          {
+            "name": "中国人民解放军战略支援部队信息工程大学",
+            "value": 1
+          },
+          {
+            "name": "中国人民解放军陆军炮兵防空兵学院",
+            "value": 1
+          },
+          {
+            "name": "中国科学技术大学",
+            "value": 1
+          },
+          {
+            "name": "中国科学院大学",
+            "value": 3
+          },
+          {
+            "name": "中山大学",
+            "value": 1
+          },
+          {
+            "name": "北京交通大学",
+            "value": 1
+          },
+          {
+            "name": "北京大学",
+            "value": 3
+          },
+          {
+            "name": "北京大学深圳研究生院",
+            "value": 1
+          },
+          {
+            "name": "华南理工大学",
+            "value": 1
+          },
+          {
+            "name": "南京大学普惠三农金融科技创新研究中心",
+            "value": 2
+          },
+          {
+            "name": "厦门大学",
+            "value": 1
+          },
+          {
+            "name": "四川大学",
+            "value": 43
+          },
+          {
+            "name": "天津大学",
+            "value": 1
+          },
+          {
+            "name": "对外经济贸易大学",
+            "value": 1
+          },
+          {
+            "name": "山东大学",
+            "value": 1
+          },
+          {
+            "name": "拟升学",
+            "value": 6
+          },
+          {
+            "name": "浙江大学",
+            "value": 3
+          },
+          {
+            "name": "清华大学",
+            "value": 2
+          }
+        ]
+      }
+    ]
+  }
+]
+  },
     {
       "year":"2019",
       "value":400,
