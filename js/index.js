@@ -40,7 +40,6 @@ $.getJSON('../data/data_wage.json',data=>{
   wageData=deepCopy(data);
 })
 $.ajaxSetup({async:true});//将执行方式改回异步执行即可
-
 // 学生数据初始化
 var obj_student=studentData[5];
 fun_line(obj_student);

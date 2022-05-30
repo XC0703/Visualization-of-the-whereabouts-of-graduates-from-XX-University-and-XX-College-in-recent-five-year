@@ -16,6 +16,14 @@ function fun_sunburst(data_sunburst,obj_student){
           return `${item.name}:${item.value}`;
         },
       },
+      visualMap: {
+        type: 'continuous',
+        min: 0,
+        max: 400,
+        inRange: {
+          color: ['#2F93C8', '#AEC48F', '#FFDB5C', '#F98862']
+        }
+      },
       series: [
         {
           type: "sunburst",
@@ -53,23 +61,14 @@ function fun_sunburst(data_sunburst,obj_student){
               label: {
                 rotate: 0
               },
-              itemStyle: {
-                color:'#F98862'
-              },
             },
             {
               r0: 30,
               r: 80,
-              itemStyle: {
-                color:'#AEC48F'
-              },
             },
             {
               r0: 80,
               r:255,
-              itemStyle: {
-                color: 	'#FFDB5C',
-              },
             },
             {
               r0:255,
@@ -78,8 +77,8 @@ function fun_sunburst(data_sunburst,obj_student){
                 show:false,
               },
               itemStyle:{
-                color:'orange',
-                borderWidth: 0,
+                borderWidth: 1,
+                borderColor: 'orange',
               },
             }
           ],
