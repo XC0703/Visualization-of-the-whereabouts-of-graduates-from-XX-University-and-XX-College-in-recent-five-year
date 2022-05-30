@@ -8997,7 +8997,7 @@
                 ]
               },
               {
-                "value": 20,
+                "value": 14,
                 "name": "其它",
                 "children": [
                   {
@@ -9236,66 +9236,6 @@
                       },
                       {
                         "name": "立信会计师事务所（特殊普通合伙）重庆分所",
-                        "value": 1
-                      }
-                    ]
-                  },
-                  {
-                    "value": 6,
-                    "name": "制造业",
-                    "data_sexchart": [
-                      {
-                        "name": "男",
-                        "value": 3
-                      },
-                      {
-                        "name": "女",
-                        "value": 3
-                      }
-                    ],
-                    "data_pie": [
-                      {
-                        "name": "三资企业",
-                        "value": 1
-                      },
-                      {
-                        "name": "国有企业",
-                        "value": 4
-                      },
-                      {
-                        "name": "民营企业",
-                        "value": 1
-                      }
-                    ],
-                    "data_map": [
-                      {
-                        "name": "四川",
-                        "value": 1
-                      },
-                      {
-                        "name": "广东",
-                        "value": 4
-                      },
-                      {
-                        "name": "广西",
-                        "value": 1
-                      }
-                    ],
-                    "data_wordCloud": [
-                      {
-                        "name": "南宁富桂精密工业",
-                        "value": 1
-                      },
-                      {
-                        "name": "美的",
-                        "value": 1
-                      },
-                      {
-                        "name": "广汽埃安新能源汽车",
-                        "value": 3
-                      },
-                      {
-                        "name": "成都飞机工业集团",
                         "value": 1
                       }
                     ]
@@ -9694,6 +9634,66 @@
                   },
                   {
                     "name": "音乐艺术工作者",
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "value": 6,
+                "name": "制造业",
+                "data_sexchart": [
+                  {
+                    "name": "男",
+                    "value": 3
+                  },
+                  {
+                    "name": "女",
+                    "value": 3
+                  }
+                ],
+                "data_pie": [
+                  {
+                    "name": "三资企业",
+                    "value": 1
+                  },
+                  {
+                    "name": "国有企业",
+                    "value": 4
+                  },
+                  {
+                    "name": "民营企业",
+                    "value": 1
+                  }
+                ],
+                "data_map": [
+                  {
+                    "name": "四川",
+                    "value": 1
+                  },
+                  {
+                    "name": "广东",
+                    "value": 4
+                  },
+                  {
+                    "name": "广西",
+                    "value": 1
+                  }
+                ],
+                "data_wordCloud": [
+                  {
+                    "name": "南宁富桂精密工业",
+                    "value": 1
+                  },
+                  {
+                    "name": "美的",
+                    "value": 1
+                  },
+                  {
+                    "name": "广汽埃安新能源汽车",
+                    "value": 3
+                  },
+                  {
+                    "name": "成都飞机工业集团",
                     "value": 1
                   }
                 ]
