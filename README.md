@@ -9,9 +9,9 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  将本项目克隆下载到本地
+2.  用VScode打开本项目
+3.  注意：VScode需要下载Live Server插件
 
 #### 使用说明
 
