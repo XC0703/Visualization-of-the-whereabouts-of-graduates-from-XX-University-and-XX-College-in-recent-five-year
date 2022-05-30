@@ -90,10 +90,10 @@ function fun_wordCloud(data_wordCloud){
           type: "wordCloud",
           drawOutOfBound:true,
           gridSize: 15,
-          // sizeRange: [5, 35],
+          sizeRange: [8, 45],
           rotationRange: [-80, 80],
           // 允许词太大的时候，超出画布的范围
-          drawOutOfBound: false,
+          drawOutOfBound: true,
           shape: "circle",
           textStyle: {
             color: (params) => {
