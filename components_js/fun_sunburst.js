@@ -33,7 +33,7 @@ function fun_sunburst(data_sunburst,obj_student){
           // 对于鼠标所在的扇形块，会使用 emphasis 样式；对于其他相关扇形块，则会使用 highlight 样式
           // 占据的位置 文字设置
           label: {
-            minAngle:6,//当小于该角度时不显示
+            minAngle:8,//当小于该角度时不显示
             position: 'center',
             distance:10,
             rotate: "radial",
@@ -45,50 +45,56 @@ function fun_sunburst(data_sunburst,obj_student){
             borderColor: '#024366',
             borderWidth: 2,
           },
-          levels: [
-            // 这里是设置 每一层的样式，层级低于单独在data里面的
-            // 第一个空数据是 占据下钻的位置
-            {
-              r0:0,
-              r:10,
-              itemStyle: {
-                color:'#4F94CD'
+      
+            levels: [
+              // 这里是设置 每一层的样式，层级低于单独在data里面的
+              // 第一个空数据是 占据下钻的位置
+              {
+                r0:0,
+                r:10,
+                itemStyle: {
+                  color:'#4F94CD'
+                },
               },
-            },
-            {
-              r0:0,
-              r:30,
-              label: {
-                rotate: 0
+              {
+                r0:0,
+                r:30,
+                label: {
+                  rotate: 0
+                },
               },
-            },
-            {
-              r0: 30,
-              r: 80,
-            },
-            {
-              r0: 80,
-              r:255,
-            },
-            {
-              r0:255,
-              r:260,
-              label: {
-                show:false,
+              {
+                r0: 30,
+                r: 80,
               },
-              itemStyle:{
-                borderWidth: 1,
-                borderColor: 'orange',
+              {
+                r0: 80,
+                r:255,
               },
-            }
-          ],
+              {
+                
+                   r0:255,
+                   r:260,
+                label: {
+                  show:true,
+                },
+                itemStyle:{
+                  borderWidth: 1,
+                  borderColor: 'orange',
+                },
+              
+              }
+            ],
+          
         },
       ],
     }; 
     // 3.点击旭日图板块  
     myChart.off("click");//解决多次触发叠加
     myChart.on("click", function(item) {
-        if(item.dataIndex!=1){
+    
+   
+       if(item.dataIndex!=1&&item.name!=""){
           // console.log(obj_student);
           fun_pie(item.data.data_pie);
           fun_map(item.data.data_map);
@@ -101,6 +107,11 @@ function fun_sunburst(data_sunburst,obj_student){
           fun_wordCloud(obj_student.data_wordCloud);
           fun_sexchart(obj_student.data_sexchart);
         }
+
+        if(item.name=="其它"){
+          is_other=true
+        }
+        console.log(item.name)
     });
     // 4.把配置给实例对象
     myChart.setOption(option);
