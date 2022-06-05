@@ -50,7 +50,7 @@ fun_sexchart(obj_student.data_sexchart);
 fun_sunburst(obj_student.data_sunburst,obj_student);
 
 // gdp数据初始化
-var obj_gdp=gdpData[4];
+var obj_gdp=gdpData[0];
 // 将省份gdp数组提取(即改成函数需要的参数格式)
 function getgdp(){
   var data_gdp_name = new Array();
@@ -67,7 +67,7 @@ function getgdp(){
 fun_gdpchart(getgdp().data_gdp_name,getgdp().data_gdp_value);
 
 // 平均工资数据初始化
-var obj_wage=wageData[4];
+var obj_wage=wageData[0];
 // 将平均工资提取(即改成函数需要的参数格式)
 function getwage(){
   console.log(obj_wage)
@@ -102,10 +102,8 @@ $(".footlist").on("mousedown","li",function(){
   lis2[0].className = 'current';
   lis2[1].className = '';
   obj_student = studentData[$(this).index()];
-  if($(this).index()!=0){
-    obj_gdp = gdpData[$(this).index()-1];
-    obj_wage = wageData[$(this).index()-1];
-  }
+  obj_gdp = gdpData[$(this).index()];
+  obj_wage = wageData[$(this).index()];
   fun_line(obj_student);
   fun_pie(obj_student.data_pie);
   fun_map(obj_student.data_map);
