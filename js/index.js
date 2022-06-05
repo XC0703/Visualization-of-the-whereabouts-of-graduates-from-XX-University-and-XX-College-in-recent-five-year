@@ -41,7 +41,7 @@ $.getJSON('../data/data_wage.json',data=>{
 })
 $.ajaxSetup({async:true});//将执行方式改回异步执行即可
 // 学生数据初始化
-var obj_student=studentData[5];
+var obj_student=studentData[0];
 fun_line(obj_student);
 fun_pie(obj_student.data_pie);
 fun_map(obj_student.data_map);
