@@ -93,7 +93,7 @@ function fun_wordCloud(data_wordCloud){
           sizeRange: [8, 45],
           rotationRange: [-80, 80],
           // 允许词太大的时候，超出画布的范围
-          drawOutOfBound: true,
+          drawOutOfBound: false,
           shape: "circle",
           textStyle: {
             color: (params) => {
