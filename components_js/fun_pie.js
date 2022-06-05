@@ -13,6 +13,11 @@ function fun_pie(data_pie){
         "#00ffb4",
         "#FF8352",
         "#0E7CE2",
+        "#b0a4e3",
+        "#d6ecf0",
+        "#bce672",
+        "#21a675",
+        " #8d4bbb"
       ],
       tooltip: {
         // 不是轴触发了，因此改为item

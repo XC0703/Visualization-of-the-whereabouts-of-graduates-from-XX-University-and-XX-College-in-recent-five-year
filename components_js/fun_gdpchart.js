@@ -21,6 +21,7 @@ function fun_gdpchart(data_gdp_name,data_gpa_value){
             color:'#fff'
           }
       },
+      color:["#70f3ff"],
       grid: {
           left: '0%',
           right: '4%',
